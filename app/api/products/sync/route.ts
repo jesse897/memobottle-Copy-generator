@@ -17,8 +17,8 @@ export async function POST() {
       const data = parseProductForDB(p);
       await prisma.product.upsert({
         where: { shopifyId: data.shopifyId },
-        update: data,
-        create: data,
+        update: { ...data, specs: data.specs ?? undefined },
+        create: { ...data, specs: data.specs ?? undefined },
       });
       syncedProducts++;
     }
