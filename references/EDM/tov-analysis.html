@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>memobottle — Email TOV Analysis</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --black: #111111;
+      --dark: #222222;
+      --mid: #666666;
+      --light: #999999;
+      --rule: #e5e5e5;
+      --bg: #ffffff;
+      --green-bg: #f0f7f0;
+      --green-border: #c8e0c8;
+      --green-label: #3a7a3a;
+      --red-bg: #fdf2f2;
+      --red-border: #e8c8c8;
+      --red-label: #9a3a3a;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+      font-size: 10pt;
+      line-height: 1.65;
+      color: var(--dark);
+      background: var(--bg);
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    /* COVER */
+    .cover {
+      width: 100%;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 80px 80px 72px;
+      page-break-after: always;
+      background: #111111;
+      color: #ffffff;
+    }
+    .cover-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+    .cover-wordmark {
+      font-size: 13pt;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      color: #ffffff;
+    }
+    .cover-label {
+      font-size: 8pt;
+      font-weight: 400;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.45);
+    }
+    .cover-main { padding-bottom: 16px; }
+    .cover-eyebrow {
+      font-size: 8.5pt;
+      font-weight: 400;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.45);
+      margin-bottom: 28px;
+    }
+    .cover-title {
+      font-size: 44pt;
+      font-weight: 300;
+      letter-spacing: -0.02em;
+      line-height: 1.05;
+      color: #ffffff;
+      margin-bottom: 36px;
+    }
+    .cover-title strong { font-weight: 600; display: block; }
+    .cover-description {
+      font-size: 11pt;
+      font-weight: 300;
+      color: rgba(255,255,255,0.6);
+      max-width: 480px;
+      line-height: 1.7;
+    }
+    .cover-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      border-top: 1px solid rgba(255,255,255,0.15);
+      padding-top: 28px;
+    }
+    .cover-footer-left, .cover-footer-right {
+      font-size: 8pt;
+      color: rgba(255,255,255,0.35);
+      letter-spacing: 0.04em;
+    }
+    .cover-footer-right { text-align: right; }
+
+    /* PAGES */
+    .page {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 72px 80px;
+      page-break-after: always;
+    }
+    .page:last-child { page-break-after: auto; }
+
+    .page-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 48px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid var(--rule);
+    }
+    .page-header-brand {
+      font-size: 8pt;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--light);
+    }
+    .page-header-section {
+      font-size: 8pt;
+      color: var(--light);
+      letter-spacing: 0.04em;
+    }
+
+    .section-number {
+      font-size: 8pt;
+      font-weight: 500;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--light);
+      margin-bottom: 10px;
+    }
+
+    h1 {
+      font-size: 26pt;
+      font-weight: 300;
+      letter-spacing: -0.02em;
+      line-height: 1.15;
+      color: var(--black);
+      margin-bottom: 32px;
+    }
+    h1 em { font-style: normal; font-weight: 600; }
+
+    h2 {
+      font-size: 13pt;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      color: var(--black);
+      margin-bottom: 10px;
+      margin-top: 36px;
+    }
+    h2:first-of-type { margin-top: 0; }
+
+    h3 {
+      font-size: 9pt;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--black);
+      margin-bottom: 8px;
+      margin-top: 24px;
+    }
+
+    p {
+      font-size: 10pt;
+      color: var(--dark);
+      line-height: 1.7;
+      margin-bottom: 12px;
+    }
+    p.lead {
+      font-size: 12pt;
+      font-weight: 300;
+      color: var(--mid);
+      line-height: 1.7;
+      margin-bottom: 32px;
+      max-width: 560px;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid var(--rule);
+      margin: 32px 0;
+    }
+
+    /* VERDICT CALLOUT */
+    .verdict {
+      background: #f5f5f5;
+      border-left: 3px solid var(--black);
+      padding: 20px 24px;
+      margin: 0 0 40px;
+      border-radius: 0 4px 4px 0;
+    }
+    .verdict p { margin: 0; font-size: 10.5pt; line-height: 1.7; }
+
+    /* WORKING / ISSUE ITEMS */
+    .item {
+      padding: 18px 0;
+      border-bottom: 1px solid var(--rule);
+    }
+    .item:last-child { border-bottom: none; }
+    .item-title {
+      font-size: 10pt;
+      font-weight: 600;
+      color: var(--black);
+      margin-bottom: 6px;
+    }
+    .item-rule {
+      font-size: 7.5pt;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--light);
+      margin-bottom: 8px;
+    }
+    .item p { margin-bottom: 6px; font-size: 9.5pt; }
+    .item p:last-child { margin-bottom: 0; }
+
+    /* EXAMPLE COPY */
+    .example-copy {
+      background: #f9f9f9;
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      padding: 16px 20px;
+      margin: 10px 0 16px;
+    }
+    .example-copy p {
+      font-size: 10pt;
+      margin: 0 0 6px;
+      font-style: italic;
+      color: var(--dark);
+    }
+    .example-copy p:last-child { margin-bottom: 0; }
+
+    /* DO/DON'T */
+    .do-dont {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin: 12px 0 20px;
+    }
+    .do-block, .dont-block {
+      padding: 16px 18px;
+      border-radius: 4px;
+    }
+    .do-block { background: var(--green-bg); border: 1px solid var(--green-border); }
+    .dont-block { background: var(--red-bg); border: 1px solid var(--red-border); }
+    .do-label, .dont-label {
+      font-size: 7.5pt;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+    .do-label { color: var(--green-label); }
+    .dont-label { color: var(--red-label); }
+    .do-block p, .dont-block p { font-size: 9.5pt; margin: 0; line-height: 1.55; }
+
+    /* PILL LIST */
+    .pill-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 10px 0 20px;
+    }
+    .pill {
+      font-size: 8.5pt;
+      font-weight: 500;
+      padding: 5px 13px;
+      border-radius: 100px;
+      border: 1px solid var(--rule);
+      color: var(--dark);
+      background: #fff;
+    }
+    .pill.good { background: var(--green-bg); border-color: var(--green-border); color: var(--green-label); }
+    .pill.flag { background: var(--red-bg); border-color: var(--red-border); color: var(--red-label); }
+
+    /* TABLE */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0 24px;
+      font-size: 9.5pt;
+    }
+    thead th {
+      font-size: 7.5pt;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--light);
+      text-align: left;
+      padding: 8px 12px;
+      border-bottom: 2px solid var(--black);
+    }
+    tbody td {
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--rule);
+      color: var(--dark);
+      vertical-align: top;
+      line-height: 1.55;
+    }
+    tbody tr:last-child td { border-bottom: none; }
+    td:first-child { font-weight: 600; color: var(--black); }
+
+    /* BENCHMARK ITEMS */
+    .benchmark-item {
+      padding: 16px 0;
+      border-bottom: 1px solid var(--rule);
+    }
+    .benchmark-item:last-child { border-bottom: none; }
+    .benchmark-tag {
+      font-size: 7.5pt;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--light);
+      margin-bottom: 6px;
+    }
+    .benchmark-item p {
+      font-size: 10.5pt;
+      font-style: italic;
+      color: var(--black);
+      line-height: 1.65;
+      margin: 0;
+      font-weight: 300;
+    }
+
+    /* PAGE FOOTER */
+    .page-footer {
+      margin-top: 48px;
+      padding-top: 18px;
+      border-top: 1px solid var(--rule);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .page-footer span {
+      font-size: 7.5pt;
+      color: var(--light);
+      letter-spacing: 0.04em;
+    }
+
+    @media print {
+      body { font-size: 9.5pt; }
+      .cover { min-height: 100vh; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .page { padding: 56px 64px; }
+      .cover-title { font-size: 38pt; }
+      @page { size: A4; margin: 0; }
+      @page :first { margin: 0; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- COVER -->
+  <div class="cover">
+    <div class="cover-top">
+      <div class="cover-wordmark">memobottle</div>
+      <div class="cover-label">Internal Review</div>
+    </div>
+    <div class="cover-main">
+      <div class="cover-eyebrow">Klaviyo Email Campaign Analysis</div>
+      <h1 class="cover-title">Email Tone<br><strong>of Voice Review</strong></h1>
+      <p class="cover-description">An audit of memobottle's email voice across Nov–Dec 2025 Klaviyo campaigns — what's working, what's drifting, and what's missing.</p>
+    </div>
+    <div class="cover-footer">
+      <div class="cover-footer-left">
+        memobottle Pty Ltd<br>
+        Melbourne, Australia
+      </div>
+      <div class="cover-footer-right">
+        Internal — March 2026<br>
+        Primary source: non-sales campaigns
+      </div>
+    </div>
+  </div>
+
+
+  <!-- PAGE 1: OVERVIEW -->
+  <div class="page">
+    <div class="page-header">
+      <span class="page-header-brand">memobottle</span>
+      <span class="page-header-section">Overview</span>
+    </div>
+
+    <div class="section-number">Section 01</div>
+    <h1>Overall <em>verdict</em></h1>
+
+    <div class="verdict">
+      <p>The brand voice is at its best when writing for product and colour launches. The Butter Yellow and SS Colours series show a team that genuinely understands the voice — playful without being try-hard, confident without overstating. The weaknesses are specific and fixable: em dashes slipping through consistently, some over-written descriptive passages, underuse of key content pillars, and utility emails that feel generic.</p>
+    </div>
+
+    <h2>Campaigns reviewed</h2>
+    <p><strong>Primary (most indicative of TOV):</strong></p>
+    <div class="pill-list">
+      <span class="pill">Butter Yellow EDM 1 + 2</span>
+      <span class="pill">New SS Colours — Pink Salt</span>
+      <span class="pill">New SS Colours — Pistachio</span>
+      <span class="pill">Holiday Giveaway EDM 3</span>
+      <span class="pill">Survey emails</span>
+    </div>
+    <p><strong>Secondary (sales period, weighted less):</strong></p>
+    <div class="pill-list">
+      <span class="pill">BFCM series (EDM 1–12)</span>
+      <span class="pill">Christmas Gifting series</span>
+      <span class="pill">Boxing Day EDMs</span>
+    </div>
+
+    <h2>At a glance</h2>
+    <div class="pill-list">
+      <span class="pill good">Hero headlines: strong</span>
+      <span class="pill good">Colour personality matching: good</span>
+      <span class="pill good">British/AU English: consistent</span>
+      <span class="pill good">B Corp handling: restrained</span>
+      <span class="pill flag">Em dashes: recurring violation</span>
+      <span class="pill flag">Sustainability pillar: absent</span>
+      <span class="pill flag">Form factor pillar: underused</span>
+      <span class="pill flag">Utility emails: voiceless</span>
+    </div>
+
+    <div class="page-footer">
+      <span>memobottle Email TOV Review — Internal</span>
+      <span>01</span>
+    </div>
+  </div>
+
+
+  <!-- PAGE 2: WHAT'S WORKING -->
+  <div class="page">
+    <div class="page-header">
+      <span class="page-header-brand">memobottle</span>
+      <span class="page-header-section">What's Working</span>
+    </div>
+
+    <div class="section-number">Section 02</div>
+    <h1>What's <em>working</em></h1>
+
+    <div class="item">
+      <div class="item-title">Hero headlines are nailing the brief</div>
+      <p>The colour launch heroes are the strongest copy in the set — short, punchy, playful, and colour-matched in energy. Exactly what the TOV calls for.</p>
+      <div class="example-copy">
+        <p>"NOW SERVING: BUTTER YELLOW"</p>
+        <p>"DRINK PINK"</p>
+        <p>"NUTS ABOUT PISTACHIO"</p>
+        <p>"'TIS THE SEASON TO BE BUTTERY"</p>
+      </div>
+      <p>The food metaphor thread running through Butter Yellow — "anything but cookie-cutter", "serving up", "explore the spread", "melts away for good", "our menu of festive favourites" — is the best example of earned dry humour in the entire set. This is the brand at its best.</p>
+    </div>
+
+    <div class="item">
+      <div class="item-title">Colour personality is being matched correctly</div>
+      <p>The TOV says to match the energy of the colour. This is being executed well across the SS launches:</p>
+      <table>
+        <thead>
+          <tr><th>Colourway</th><th>Copy energy</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Pink Salt</td><td>Romantic, wanderer-focused — "the romantics, and the curious"</td></tr>
+          <tr><td>Pistachio</td><td>Modernist, contrast language — "bold, modernist design"</td></tr>
+          <tr><td>Butter Yellow</td><td>Warmth and lifestyle — "slow mornings and gentle sunshine"</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="item">
+      <div class="item-title">British/Australian English is consistent</div>
+      <p>"colour", "colourway", "favourite", "flavour" — all correct throughout. No American spellings found in primary campaigns.</p>
+    </div>
+
+    <div class="item">
+      <div class="item-title">B Corp credentials are handled with restraint</div>
+      <p>"BETTER PRODUCTS / BIGGER PURPOSE" in the footer is exactly right — understated, not self-congratulatory. Consistent across templates.</p>
+    </div>
+
+    <div class="item">
+      <div class="item-title">Product naming is mostly correct</div>
+      <p>"the memobottle", "the Stainless Steel memobottle" — correctly lowercase and framed throughout the primary campaigns. No instances of "our bottle" in the non-sales emails.</p>
+    </div>
+
+    <div class="page-footer">
+      <span>memobottle Email TOV Review — Internal</span>
+      <span>02</span>
+    </div>
+  </div>
+
+
+  <!-- PAGE 3: ISSUES -->
+  <div class="page">
+    <div class="page-header">
+      <span class="page-header-brand">memobottle</span>
+      <span class="page-header-section">Issues &amp; Flags</span>
+    </div>
+
+    <div class="section-number">Section 03</div>
+    <h1>Issues &amp; <em>flags</em></h1>
+
+    <div class="item">
+      <div class="item-rule">Rule: no em dashes — use a spaced dash ( - ) or rewrite</div>
+      <div class="item-title">1. Em dashes — used repeatedly in body copy</div>
+      <p>This is the most consistent technical violation across the set. It's appearing in the primary (non-sales) emails, which means it's a habit rather than an oversight.</p>
+      <div class="do-dont">
+        <div class="do-block">
+          <div class="do-label">Should be</div>
+          <p>"making the most of the space you have, minus the bulk"</p>
+        </div>
+        <div class="dont-block">
+          <div class="dont-label">Found in email</div>
+          <p>"space you have — making the most of..."</p>
+        </div>
+      </div>
+      <p>Also appears in subject lines during the sales period: "15% off sitewide continues — limited time only!" and "Free shipping on your Christmas order* — 5 days only".</p>
+    </div>
+
+    <div class="item">
+      <div class="item-title">2. Over-written descriptive passages</div>
+      <p>Some colour description copy runs longer than it needs to. The TOV benchmark is max 2-3 sentences, often just one. The Pistachio description nails it (one sentence). Pink Salt's "DESIGNED FOR YOU" section drifts:</p>
+      <div class="do-dont">
+        <div class="do-block">
+          <div class="do-label">Tighter version</div>
+          <p>"For the wanderers, the romantics, and the curious."</p>
+        </div>
+        <div class="dont-block">
+          <div class="dont-label">Found in email</div>
+          <p>"Inviting a splash of creative, playful charm into your day, Pink Salt is designed for life in motion, and for those who go with the flow: the wanderers, the romantics, and the curious."</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="item-title">3. Weak superlatives in gifting copy</div>
+      <p>Butter Yellow EDM 2: "the memobottle is the perfect thoughtful gift for those who appreciate something out-of-the-box." Both "perfect" and "out-of-the-box" are soft clichés. The TOV says confidence is understated — a stronger line would lean into the design angle rather than a gifting trope.</p>
+    </div>
+
+    <div class="item">
+      <div class="item-title">4. Survey and utility emails feel generic</div>
+      <p>The survey emails ("WE WANT TO HEAR FROM YOU") are clean visually but the copy has no brand personality. A short, dry opener would go a long way. At the moment they read like any DTC brand's survey email.</p>
+    </div>
+
+    <div class="item">
+      <div class="item-title">5. Giveaway copy uses urgency clichés</div>
+      <p>The Holiday Giveaway EDM uses "LAST CHANCE", "DON'T MISS THIS", and "THE TRIP OF A LIFETIME" — standard urgency phrases that any brand could write. The body is functional but there's no memobottle voice in it.</p>
+    </div>
+
+    <div class="page-footer">
+      <span>memobottle Email TOV Review — Internal</span>
+      <span>03</span>
+    </div>
+  </div>
+
+
+  <!-- PAGE 4: MISSING PILLARS -->
+  <div class="page">
+    <div class="page-header">
+      <span class="page-header-brand">memobottle</span>
+      <span class="page-header-section">Missing Pillars</span>
+    </div>
+
+    <div class="section-number">Section 04</div>
+    <h1>Underused <em>pillars</em></h1>
+
+    <p class="lead">These are core TOV content pillars that are largely absent from the email set reviewed.</p>
+
+    <h2>Form factor</h2>
+    <p>The flat/fits-anywhere design angle barely appears. It gets one mention in the Butter Yellow launch (the Tetris-fit line) but isn't being used as a recurring hook in subject lines or opening copy. Given it's the brand's most distinctive differentiator, this is a significant missed opportunity.</p>
+    <div class="example-copy">
+      <p>"Fits where a bottle shouldn't."</p>
+      <p>"Pack smarter, not heavier."</p>
+      <p>"Find space in your bag that you never knew existed."</p>
+    </div>
+    <p>Lines like these could anchor product launches and new colour EDMs without needing a dedicated section — a single line in the opener is enough.</p>
+
+    <h2>Sustainability</h2>
+    <p>Beyond the B Corp footer icons, sustainability copy is completely absent from campaign emails. No Water.org mentions, no single-use reduction angle, no matter-of-fact environmental credentials. This is the brand's "why" — and it's not showing up at all in EDMs.</p>
+    <p>The TOV guideline is clear: sustainability is matter-of-fact, never preachy. One line is often enough.</p>
+    <div class="example-copy">
+      <p>"Carry water without creating waste."</p>
+      <p>"One less excuse to reach for a single-use bottle."</p>
+    </div>
+
+    <h2>The understated flex</h2>
+    <p>The TOV describes a structure called "the understated flex" — confident, minimal lines that let the product speak. This style is absent from the emails reviewed, with copy defaulting to longer descriptive passages when a single line would land harder.</p>
+    <div class="example-copy">
+      <p>"Different by design."</p>
+      <p>"Less is more."</p>
+      <p>"Multi-award winning design. You'll see why."</p>
+    </div>
+
+    <div class="page-footer">
+      <span>memobottle Email TOV Review — Internal</span>
+      <span>04</span>
+    </div>
+  </div>
+
+
+  <!-- PAGE 5: QUICK REFERENCE + BENCHMARKS -->
+  <div class="page">
+    <div class="page-header">
+      <span class="page-header-brand">memobottle</span>
+      <span class="page-header-section">Reference</span>
+    </div>
+
+    <div class="section-number">Section 05</div>
+    <h1>Quick fixes &amp; <em>benchmarks</em></h1>
+
+    <h2>Patterns to fix</h2>
+    <table>
+      <thead>
+        <tr><th>Issue</th><th>Example found</th><th>Fix</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Em dashes in body copy</td>
+          <td>"warmth and comfort — reminiscent of..."</td>
+          <td>Use " - " or rewrite the sentence</td>
+        </tr>
+        <tr>
+          <td>Em dashes in subject lines</td>
+          <td>"15% off sitewide continues — limited time"</td>
+          <td>Replace with " - " or use a colon</td>
+        </tr>
+        <tr>
+          <td>Over-written colour copy</td>
+          <td>Pink Salt "DESIGNED FOR YOU" section</td>
+          <td>Cut to the essential line</td>
+        </tr>
+        <tr>
+          <td>Generic utility emails</td>
+          <td>Survey emails</td>
+          <td>Add a single dry opener in voice</td>
+        </tr>
+        <tr>
+          <td>Weak gifting superlatives</td>
+          <td>"the perfect thoughtful gift"</td>
+          <td>Reframe around design or experience</td>
+        </tr>
+        <tr>
+          <td>Missing form factor angle</td>
+          <td>Absent from most EDMs</td>
+          <td>Weave in as a recurring opening hook</td>
+        </tr>
+        <tr>
+          <td>Missing sustainability angle</td>
+          <td>Absent entirely from campaigns</td>
+          <td>One matter-of-fact line per product EDM</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Standout copy — use as internal benchmarks</h2>
+    <p>The best lines from the reviewed set. Use these as reference when briefing or reviewing new copy.</p>
+
+    <div class="benchmark-item">
+      <div class="benchmark-tag">Hero — Product Launch</div>
+      <p>"NOW SERVING: BUTTER YELLOW"</p>
+    </div>
+    <div class="benchmark-item">
+      <div class="benchmark-tag">Dry Humour — On Brand</div>
+      <p>"Introducing the Stainless Steel bottle in Butter, that's anything but cookie-cutter."</p>
+    </div>
+    <div class="benchmark-item">
+      <div class="benchmark-tag">Extended Metaphor — Well Executed</div>
+      <p>"explore the spread now before this limited-edition colourway melts away for good"</p>
+    </div>
+    <div class="benchmark-item">
+      <div class="benchmark-tag">Elevated Headline</div>
+      <p>"A statement-maker made for the keepers of beautiful things."</p>
+    </div>
+    <div class="benchmark-item">
+      <div class="benchmark-tag">Hero — Two Words, Earns Its Place</div>
+      <p>"DRINK PINK"</p>
+    </div>
+    <div class="benchmark-item">
+      <div class="benchmark-tag">Colour Description — Right Length</div>
+      <p>"A modern take on the classic blush pink, Pink Salt's ethereal, pastel-like hue beckons a second look."</p>
+    </div>
+    <div class="benchmark-item">
+      <div class="benchmark-tag">Colour Description — Ideal Brevity</div>
+      <p>"The Stainless Steel memobottle in Pistachio celebrates the beauty of contrasts, with its understated colour palette perfectly balancing its bold, modernist design."</p>
+    </div>
+
+    <div class="page-footer">
+      <span>memobottle Email TOV Review — Internal</span>
+      <span>05</span>
+    </div>
+  </div>
+
+</body>
+</html>

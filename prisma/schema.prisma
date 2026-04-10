@@ -1,0 +1,85 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../lib/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ── Shopify OAuth token ───────────────────────────────────────────────────────
+
+model ShopifyToken {
+  id          String   @id @default(cuid())
+  accessToken String
+  shop        String   @unique
+  expiresAt   DateTime
+  createdAt   DateTime @default(now())
+
+  @@map("shopify_tokens")
+}
+
+// ── Product catalogue — synced from Shopify ───────────────────────────────────
+
+model Product {
+  id          String   @id @default(cuid())
+  shopifyId   String   @unique
+  title       String
+  handle      String
+  productType String?
+  description String?  // Plain text, HTML stripped
+  variants    Json     // Array of { title, sku, price }
+  tags        String?
+  images      Json     // Array of { src, alt }
+  specs       Json?    // Parsed key specs if available
+  syncedAt    DateTime @default(now())
+
+  @@index([productType])
+  @@map("products")
+}
+
+// ── Shopify Collections ───────────────────────────────────────────────────────
+
+model Collection {
+  id          String   @id @default(cuid())
+  shopifyId   String   @unique
+  title       String
+  handle      String
+  description String?
+  productIds  Json     // Array of Shopify product IDs (strings)
+  syncedAt    DateTime @default(now())
+
+  @@index([handle])
+  @@map("collections")
+}
+
+// ── Copy examples (few-shot source + user library) ────────────────────────────
+
+model CopyExample {
+  id        String   @id @default(cuid())
+  channel   String   // 'instagram' | 'tiktok' | 'edm' | 'pdp'
+  copyText  String   // Plain string; EDMs stored as JSON-stringified EDMCopy
+  notes     String?
+  source    String?  // 'manual' | 'generated'
+  isActive  Boolean  @default(true)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([channel, isActive])
+  @@map("copy_examples")
+}
+
+// ── Generation history ────────────────────────────────────────────────────────
+
+model GenerationHistory {
+  id        String   @id @default(cuid())
+  channel   String
+  brief     Json     // Form values submitted
+  output    Json     // Array of CopyVariation
+  model     String
+  createdAt DateTime @default(now())
+
+  @@index([channel, createdAt])
+  @@map("generation_history")
+}

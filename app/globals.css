@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --memo-navy: #323250;
+  --memo-terracotta: #c96226;
+  --memo-text: #3d4246;
+  --memo-muted: #555555;
+}
+
+body {
+  background-color: #f5f4f2;
+  color: var(--memo-text);
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+}
+
+.memo-card {
+  background: #ffffff;
+  border: 1px solid #e8e6e3;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(50, 50, 80, 0.06);
+}

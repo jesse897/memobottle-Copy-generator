@@ -1,0 +1,98 @@
+[
+  {
+    "campaign": "new-ss-colours-edm-3",
+    "send_time": "2025-11-06",
+    "subject": "Meet the Pink Salt Stainless Steel memobottle \ud83e\ude77",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/1a12c16e-7054-48f5-87c2-ce044dfc4177.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-06_new-ss-colours-edm-3_3.jpg",
+    "img_num": 3
+  },
+  {
+    "campaign": "new-ss-colours-edm-3",
+    "send_time": "2025-11-06",
+    "subject": "Meet the Pink Salt Stainless Steel memobottle \ud83e\ude77",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/1ba5e8cb-54c0-41d3-8ca1-efd3ef72be0d.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-06_new-ss-colours-edm-3_4.jpg",
+    "img_num": 4
+  },
+  {
+    "campaign": "holiday-giveaway-edm-3",
+    "send_time": "2025-11-05",
+    "subject": "Final Hours to Win a Holiday to Japan",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/a5827f22-b8cf-45f9-955a-282d45721866.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-05_holiday-giveaway-edm-3_1.jpg",
+    "img_num": 1
+  },
+  {
+    "campaign": "holiday-giveaway-edm-3",
+    "send_time": "2025-11-05",
+    "subject": "Final Hours to Win a Holiday to Japan",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/ec338260-67ea-4ed3-b701-26b051463b92.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-05_holiday-giveaway-edm-3_2.jpg",
+    "img_num": 2
+  },
+  {
+    "campaign": "holiday-giveaway-edm-3",
+    "send_time": "2025-11-05",
+    "subject": "Final Hours to Win a Holiday to Japan",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/d1b512ee-f942-4f86-9cb9-c16844aca7f4.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-05_holiday-giveaway-edm-3_3.jpg",
+    "img_num": 3
+  },
+  {
+    "campaign": "holiday-giveaway-edm-3",
+    "send_time": "2025-11-05",
+    "subject": "Final Hours to Win a Holiday to Japan",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/640f58ec-c8f0-4981-be15-503803e7ccc7.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-05_holiday-giveaway-edm-3_4.jpg",
+    "img_num": 4
+  },
+  {
+    "campaign": "Survey (Never made a purchase)",
+    "send_time": "2025-11-01",
+    "subject": "We\u2019d love your feedback, {{ person.first_name|default:'friend' }}",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/a6908592-cb26-45bd-b87d-7eb81324fcd0.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-01_Survey_(Never_made_a_purchase)_1.jpg",
+    "img_num": 1
+  },
+  {
+    "campaign": "Survey (Never made a purchase)",
+    "send_time": "2025-11-01",
+    "subject": "We\u2019d love your feedback, {{ person.first_name|default:'friend' }}",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/0ed3fac4-5adc-49cf-a51e-85ce324f3da9.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-01_Survey_(Never_made_a_purchase)_2.jpg",
+    "img_num": 2
+  },
+  {
+    "campaign": "Survey (Never made a purchase)",
+    "send_time": "2025-11-01",
+    "subject": "We\u2019d love your feedback, {{ person.first_name|default:'friend' }}",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/ad01bdb7-d761-4421-8476-54c5b0985b3c.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-01_Survey_(Never_made_a_purchase)_3.jpg",
+    "img_num": 3
+  },
+  {
+    "campaign": "Survey (Made a purchase)",
+    "send_time": "2025-11-01",
+    "subject": "We\u2019d love your feedback, {{ person.first_name|default:'friend' }}",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/a6908592-cb26-45bd-b87d-7eb81324fcd0.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-01_Survey_(Made_a_purchase)_1.jpg",
+    "img_num": 1
+  },
+  {
+    "campaign": "Survey (Made a purchase)",
+    "send_time": "2025-11-01",
+    "subject": "We\u2019d love your feedback, {{ person.first_name|default:'friend' }}",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/0ed3fac4-5adc-49cf-a51e-85ce324f3da9.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-01_Survey_(Made_a_purchase)_2.jpg",
+    "img_num": 2
+  },
+  {
+    "campaign": "Survey (Made a purchase)",
+    "send_time": "2025-11-01",
+    "subject": "We\u2019d love your feedback, {{ person.first_name|default:'friend' }}",
+    "url": "https://d3k81ch9hvuctc.cloudfront.net/company/QqEzHv/images/ad01bdb7-d761-4421-8476-54c5b0985b3c.jpeg",
+    "file": "/Users/Jesse/Desktop/ELMO/projects/email-tov-analysis/images/2025-11-01_Survey_(Made_a_purchase)_3.jpg",
+    "img_num": 3
+  }
+]

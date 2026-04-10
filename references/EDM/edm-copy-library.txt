@@ -1,0 +1,3018 @@
+MEMOBOTTLE EDM COPY LIBRARY
+============================
+Generated: 2026-04-09
+Source: images-resized/ folder + campaign_details.csv
+
+Campaigns are organised by type. Each entry includes the campaign name, date sent,
+and full body copy extracted from email screenshots. CTAs are noted in [brackets].
+Campaigns without images in the folder are noted as [NO IMAGE CAPTURED].
+
+============================
+CATEGORIES:
+  1. PRODUCT LAUNCH
+  2. SEASONAL GIFTING (Father's Day, Mother's Day, Valentine's Day, Christmas)
+  3. SALE / PROMOTIONAL
+  4. COMMUNITY & BRAND (content, values, partnerships)
+  5. GIVEAWAY / COMPETITION
+  6. SURVEY
+  7. OPERATIONAL (opt-outs, B2B, win-back)
+============================
+
+
+================================================================================
+1. PRODUCT LAUNCH
+================================================================================
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-1
+DATE: 2024-09-21
+SERIES: Elements 10th Anniversary — Kickstarter (Teaser)
+--------------------------------------------------------------------------------
+24.09.24
+
+Register now for early access.
+
+[REGISTER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-2
+DATE: 2024-09-22
+SERIES: Elements 10th Anniversary — Kickstarter (Teaser)
+--------------------------------------------------------------------------------
+24.09.24
+
+Register now for early access.
+
+[REGISTER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-3
+DATE: 2024-09-23
+SERIES: Elements 10th Anniversary — Kickstarter (Teaser)
+--------------------------------------------------------------------------------
+ELEMENTS
+ANNIVERSARY COLLECTION
+
+24·09·24
+
+PRE-ORDERS OPENING TUESDAY.
+REGISTER NOW FOR EARLY ACCESS.
+
+[REGISTER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-4-eoi (Early Access / EOI segment)
+DATE: 2024-09-24
+SERIES: Elements 10th Anniversary — Kickstarter
+--------------------------------------------------------------------------------
+ELEMENTS
+ANNIVERSARY COLLECTION
+
+EARLY ACCESS OPENS IN 6 HOURS
+
+YOUR EXCLUSIVE EARLY ACCESS BEGINS
+7:30PM AEST / 11:30AM CEST
+5:30PM HKT / 6:30PM JST
+
+[CLICK HERE AT LAUNCH]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-4-meta (Meta / paid audience segment)
+DATE: 2024-09-24
+SERIES: Elements 10th Anniversary — Kickstarter
+--------------------------------------------------------------------------------
+ELEMENTS
+ANNIVERSARY COLLECTION
+
+EARLY ACCESS OPENS IN 6 HOURS
+
+YOUR EXCLUSIVE EARLY ACCESS BEGINS
+7:30PM AEST / 11:30AM CEST
+5:30PM HKT / 6:30PM JST
+
+[CLICK HERE AT LAUNCH]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-4-reg (General / REG segment)
+DATE: 2024-09-24
+SERIES: Elements 10th Anniversary — Kickstarter
+--------------------------------------------------------------------------------
+ELEMENTS
+ANNIVERSARY COLLECTION
+
+ARRIVING IN 6 HOURS
+
+REGISTER NOW FOR EARLY ACCESS
+
+[REGISTER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-5-eoi
+DATE: 2024-09-24
+SERIES: Elements 10th Anniversary — Kickstarter (Launch)
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+ELEMENTS
+10-YEAR ANNIVERSARY EDITION
+
+EXCLUSIVE EARLY ACCESS
+
+The memobottle, like you've never seen it before
+
+Introducing Elements, our 10th anniversary collection. Featuring Titanium Ultralight,
+Copper PVD, and Satin Steel — the water bottle has been re-imagined, yet again.
+
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-5-meta
+DATE: 2024-09-24
+SERIES: Elements 10th Anniversary — Kickstarter (Launch)
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+ELEMENTS
+10-YEAR ANNIVERSARY EDITION
+
+EXCLUSIVE EARLY ACCESS
+
+The memobottle, like you've never seen it before
+
+Introducing Elements, our 10th anniversary collection. Featuring Titanium Ultralight,
+Copper PVD, and Satin Steel — the water bottle has been re-imagined, yet again.
+
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-5-reg
+DATE: 2024-09-24
+SERIES: Elements 10th Anniversary — Kickstarter (Launch)
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+ELEMENTS
+10-YEAR ANNIVERSARY EDITION
+
+JUST LAUNCHED
+
+The memobottle, like you've never seen it before
+
+Introducing Elements, our 10th anniversary collection. Featuring Titanium Ultralight,
+Copper PVD, and Satin Steel — the water bottle has been re-imagined, yet again.
+
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-6-eoi
+DATE: 2024-09-25
+SERIES: Elements 10th Anniversary — Kickstarter (Features)
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+ELEMENTS
+10-YEAR ANNIVERSARY EDITION
+
+JUST LAUNCHED
+
+Designed to inspire hydration
+
+New Titanium Ultralight, Copper PVD, and Satin Steel memobottles. Crafted from the
+elements — designed to inspire hydration.
+
+Choose your element.
+
+[PRE-ORDER NOW]
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-6-meta
+DATE: 2024-09-25
+SERIES: Elements 10th Anniversary — Kickstarter (Features)
+--------------------------------------------------------------------------------
+[Same copy as edm-6-eoi]
+
+PRE-ORDER VIA KICKSTARTER
+
+ELEMENTS
+10-YEAR ANNIVERSARY EDITION
+
+JUST LAUNCHED
+
+Designed to inspire hydration
+
+New Titanium Ultralight, Copper PVD, and Satin Steel memobottles. Crafted from the
+elements — designed to inspire hydration.
+
+Choose your element.
+
+[PRE-ORDER NOW]
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-6-reg
+DATE: 2024-09-25
+SERIES: Elements 10th Anniversary — Kickstarter (Features)
+--------------------------------------------------------------------------------
+[Same copy as edm-6-eoi]
+
+PRE-ORDER VIA KICKSTARTER
+
+ELEMENTS
+10-YEAR ANNIVERSARY EDITION
+
+JUST LAUNCHED
+
+Designed to inspire hydration
+
+New Titanium Ultralight, Copper PVD, and Satin Steel memobottles. Crafted from the
+elements — designed to inspire hydration.
+
+Choose your element.
+
+[PRE-ORDER NOW]
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-7-eoi
+DATE: 2024-09-26
+SERIES: Elements — Titanium Ultralight spotlight
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+TITANIUM ULTRALIGHT
+LIMITED EDITION
+
+Ultralight.
+For heavy use.
+
+The ultimate performance bottle is here.
+
+Refreshingly lightweight. Enduringly robust. Crafted from aerospace-grade titanium,
+for an otherworldly experience.
+
+Titanium Ultralight is the adventure companion you've been waiting for.
+
+[PRE-ORDER NOW]
+
+8 days remain — Pre-order and save up to 30%
+
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-7-meta
+DATE: 2024-09-26
+SERIES: Elements — Titanium Ultralight spotlight
+--------------------------------------------------------------------------------
+[Same copy as edm-7-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-7-reg
+DATE: 2024-09-26
+SERIES: Elements — Titanium Ultralight spotlight
+--------------------------------------------------------------------------------
+[Same copy as edm-7-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-8-eoi
+DATE: 2024-09-27
+SERIES: Elements — Copper PVD spotlight
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+COPPER PVD
+LIMITED EDITION
+
+In our Element
+
+The Elements extrovert is here.
+
+We've given the space-saving memobottle you love a glow up. With a luxuriously rich
+gleam from its Copper PVD coating, this is the bottle that leaves an impression.
+
+[PRE-ORDER NOW]
+
+Only 7 days left to pre-order and save up to 30%
+
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-8-meta
+DATE: 2024-09-27
+SERIES: Elements — Copper PVD spotlight
+--------------------------------------------------------------------------------
+[Same copy as edm-8-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-8-reg
+DATE: 2024-09-27
+SERIES: Elements — Copper PVD spotlight
+--------------------------------------------------------------------------------
+[Same copy as edm-8-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-9-eoi
+DATE: 2024-09-28
+SERIES: Elements — Satin Steel spotlight
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+SATIN STEEL
+LIMITED EDITION
+
+Rock solid.
+Satin smooth.
+
+Smooth like satin, strong as anything.
+
+The timeless texture and robust construction of Satin Steel guarantee this memobottle
+will be by your side inspiring hydration for years to come.
+
+[LEARN MORE]
+
+Only 6 days left to pre-order and save up to 30%
+
+[LEARN MORE]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-9-meta
+DATE: 2024-09-28
+SERIES: Elements — Satin Steel spotlight
+--------------------------------------------------------------------------------
+[Same copy as edm-9-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-9-reg
+DATE: 2024-09-28
+SERIES: Elements — Satin Steel spotlight
+--------------------------------------------------------------------------------
+[Same copy as edm-9-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-10-eoi
+DATE: 2024-09-29
+SERIES: Elements — BTS / video content
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+Elements, assemble: A BTS look
+
+Forget pulling a rabbit out of a hat — here's how we created one of our favourite
+magic moments to date, the Elements campaign video.
+
+Starring Titanium Ultralight, Copper PVD, and Satin Steel. Only 5 days left to
+pre-order and save up to 30%.
+
+[WATCH THE VIDEO & PRE-ORDER NOW]
+[WATCH THE VIDEO & PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-10-meta
+DATE: 2024-09-29
+SERIES: Elements — BTS / video content
+--------------------------------------------------------------------------------
+[Same copy as edm-10-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-10-reg
+DATE: 2024-09-29
+SERIES: Elements — BTS / video content
+--------------------------------------------------------------------------------
+[Same copy as edm-10-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-11-eoi
+DATE: 2024-09-30
+SERIES: Elements — Founder letter / 10th anniversary
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+Celebrating a decade of Memobottle
+
+Memobottle turns 10! We're commemorating this double digit achievement with Elements
+— a special metallic memobottle collection to say thank you to our community.
+
+We're back on Kickstarter with limited-edition Titanium Ultralight, Copper PVD, and
+Satin Steel memobottles — a nod to where we first began our journey with the Original
+memobottle. Our crowdfunding community is why we've been able to stay independent and
+continue creating the innovative products you're asking for.
+
+In a fast paced world where things are done with a swipe of a finger, we hope Elements
+reminds you to slow down, sip, and savour the moment.
+
+Thank you for welcoming Memobottle into your lives, and to everyone who has supported
+Elements so far.
+
+We can't wait for you to see what's coming next.
+
+Jesse Leeworthy and Jonathan Byrt
+Co-founders of Memobottle
+
+[VIEW THE ELEMENTS COLLECTION HERE]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-11-meta
+DATE: 2024-09-30
+SERIES: Elements — Founder letter / 10th anniversary
+--------------------------------------------------------------------------------
+[Same copy as edm-11-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-11-reg
+DATE: 2024-09-30
+SERIES: Elements — Founder letter / 10th anniversary
+--------------------------------------------------------------------------------
+[Same copy as edm-11-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-12-eoi
+DATE: 2024-10-01
+SERIES: Elements — Social proof / video roundup
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+ENDING SOON
+
+Elements, on video
+
+We're delving into the Elements collection on our socials — check out some of the
+highlights below.
+
+Only 3 days left to pre-order and save up to 30%.
+
+[PRE-ORDER NOW]
+
+Memobottle co-founder Jesse Leeworthy introduces Elements
+How do we keep our memobottles sparkling clean?
+A side-by-side Elements memobottle size comparison
+
+[FOLLOW US ON SOCIALS]
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-12-meta
+DATE: 2024-10-01
+SERIES: Elements — Social proof / video roundup
+--------------------------------------------------------------------------------
+[Same copy as edm-12-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-12-reg
+DATE: 2024-10-01
+SERIES: Elements — Social proof / video roundup
+--------------------------------------------------------------------------------
+[Same copy as edm-12-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstater-elements-edm-13-eoi
+DATE: 2024-10-02
+SERIES: Elements — Final countdown
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+FINAL HOURS
+
+LESS THAN 2 DAYS REMAIN
+
+The countdown begins. Get in quick to save up to 30% when you pre-order your
+Titanium Ultralight, Copper PVD, and Satin Steel memobottles.
+
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstater-elements-edm-13-meta
+DATE: 2024-10-02
+SERIES: Elements — Final countdown
+--------------------------------------------------------------------------------
+[Same copy as edm-13-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstater-elements-edm-13-reg
+DATE: 2024-10-02
+SERIES: Elements — Final countdown
+--------------------------------------------------------------------------------
+[Same copy as edm-13-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-14-eoi
+DATE: 2024-10-03
+SERIES: Elements — 24 hours remaining
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+FINAL HOURS
+
+PRE-ORDERS CLOSE IN 24 HOURS
+
+The countdown begins. Get in quick to save up to 30% when you pre-order your
+Titanium Ultralight, Copper PVD, and Satin Steel memobottles.
+
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-14-meta
+DATE: 2024-10-03
+SERIES: Elements — 24 hours remaining
+--------------------------------------------------------------------------------
+[Same copy as edm-14-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-14-reg
+DATE: 2024-10-03
+SERIES: Elements — 24 hours remaining
+--------------------------------------------------------------------------------
+[Same copy as edm-14-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-15-eoi
+DATE: 2024-10-04
+SERIES: Elements — Last chance (2 hours left)
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+LAST CHANCE
+
+2 HOURS LEFT
+
+Don't miss out — this is your last chance to save up to 30% on your Elements
+memobottles.
+
+[PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-15-meta
+DATE: 2024-10-04
+SERIES: Elements — Last chance (2 hours left)
+--------------------------------------------------------------------------------
+[Same copy as edm-15-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-15-reg
+DATE: 2024-10-04
+SERIES: Elements — Last chance (2 hours left)
+--------------------------------------------------------------------------------
+[Same copy as edm-15-eoi]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: satin-steel-launch-edm-1
+DATE: 2024-12-09
+SERIES: Satin Steel Launch
+--------------------------------------------------------------------------------
+WANT YOUR DELIVERY IN TIME FOR CHRISTMAS?
+PLACE YOUR ORDERS BY 17 DEC (AUS)
+
+SATIN HAS LANDED
+
+We've paired robust stainless steel construction with a luminous sandblasted satin
+finish, to create a timeless everyday companion.
+
+[SHOP NOW]
+
+FREE SHIPPING WHEN YOU SPEND $100 OR MORE (AUS ONLY)
+
+Get $50 to spend on Value Packs*
+Use code MEMOXMAS at checkout to get $50 off when you purchase any of our 8 curated
+Value Packs.
+
+Save up to 19% with coloured bundles
+Get the Original bottle with a matching coloured Silicone Sleeve + Lid
+
+[SHOP NOW]
+
+NEW IN: Satin Steel memobottle
+With a sandblasted satin finish that is as durable as it is elegant.
+
+*Get $50 to spend on any Value Pack over $140 on memobottle.com, per order. Use code
+MEMOXMAS at checkout to redeem. Offer ends 20 December 2024 (11:59pm PST). Subject to
+availability, while stocks last. Memobottle Pty Ltd reserves the right to change or
+withdraw this offer at any time.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: satin-steel-launch-edm-2
+DATE: 2024-12-14
+SERIES: Satin Steel Launch
+--------------------------------------------------------------------------------
+WANT YOUR DELIVERY IN TIME FOR CHRISTMAS?
+PLACE YOUR ORDERS BY 17 DEC (AUS)
+
+NEW IN: SATIN STEEL MEMOBOTTLE
+
+Life's better in Satin
+
+With its striking sandblasted finish, the Satin Steel memobottle is unlike any other
+bottle you've experienced.
+
+Deliver a wow moment on Christmas morning, or elevate your own water bottle game —
+the choice is yours.
+
+[SHOP NOW]
+
+FREE SHIPPING WHEN YOU SPEND $100 OR MORE (AUS ONLY)
+
+Get $50 to spend on Value Packs*
+Use code MEMOXMAS at checkout to get $50 off when you purchase any of our 8 curated
+Value Packs.
+
+Save up to 19% with coloured bundles
+Get the Original bottle with a matching coloured Silicone Sleeve and Lid
+
+[SHOP NOW]
+
+*Get $50 to spend on any Value Pack over $140 on memobottle.com, per order. Use code
+MEMOXMAS at checkout to redeem. Offer ends 20 December 2024 (11:59pm PST). Subject to
+availability, while stocks last. Memobottle Pty Ltd reserves the right to change or
+withdraw this offer at any time.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: a3-tote-teaser-edm-1
+DATE: 2025-02-18
+SERIES: A3 Daily Tote — Teaser
+--------------------------------------------------------------------------------
+We're adding to the A-team.
+
+A3
+25-02-25
+
+--------------------------------------------------------------------------------
+CAMPAIGN: a3-tote-teaser-edm-2
+DATE: 2025-02-20
+SERIES: A3 Daily Tote — Teaser
+--------------------------------------------------------------------------------
+25-02-25
+
+Go from A to B with the A3 Daily Tote.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: a3-tote-teaser-edm-3
+DATE: 2025-02-24
+SERIES: A3 Daily Tote — Teaser
+--------------------------------------------------------------------------------
+[Image only — product shot of A3 Daily Tote in motion. No body copy.]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: a3-tote-launch-edm-4
+DATE: 2025-02-25
+SERIES: A3 Daily Tote — Launch
+--------------------------------------------------------------------------------
+[NEW]
+
+The A3 Daily Tote is here.
+
+You already carry water differently. Now, discover the delight of flat packing all
+your everyday essentials, including your memobottle.
+
+Introducing the A3 Daily Tote. Our first ever tote bag range has dropped, in three
+dreamy shades that will take you from brunch, to the office, and beyond.
+
+[EXPLORE THE RANGE]
+
+Colours:
+EUCALYPT
+BLACK ASH
+PAPERBARK
+
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: a3-tote-launch-edm-5
+DATE: 2025-02-27
+SERIES: A3 Daily Tote — Features
+--------------------------------------------------------------------------------
+JUST LAUNCHED
+A3 DAILY TOTE
+
+All the features, from A to 3
+
+Thoughtfully designed to help you maximise space, so you never have to leave your
+belongings behind again.
+
+But that's not all — discover what else makes the A3 Daily Tote the ideal everyday
+bag below.
+
+[LEARN MORE]
+
+ULTRA-SLIM DESIGN
+Streamlines your daily carry with its flat and space-efficient design.
+
+STYLISH AND SUSTAINABLE
+Made from lightweight recycled nylon, in three classic colours that are easy to
+coordinate with your daily wear.
+
+ON-THE-GO ORGANISATION MADE EASY
+Includes a padded 16" laptop pocket, hidden compartment for valuables, and internal
+pockets for other essentials.
+
+PART OF THE MEMOBOTTLE ECOSYSTEM
+Designated A5, A6, and A7 pockets to carry your favourite memobottle and other
+reusables.
+
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: a3-tote-launch-edm-6
+DATE: 2025-03-01
+SERIES: A3 Daily Tote — Colour focus
+--------------------------------------------------------------------------------
+FREE SHIPPING WITH ANY A3 DAILY TOTE (AUS ONLY)
+ENDS SUNDAY
+
+JUST LAUNCHED: A3 DAILY TOTE
+
+Good things come in 3's.
+
+Your new everyday tote is available in 3 timeless hues inspired by nature — Black Ash,
+Eucalypt, and Paperbark.
+
+Explore the collection now.
+
+[SHOP THE A3 DAILY TOTE]
+
+ULTRA-SLIM DESIGN TO FLAT PACK YOUR DAILY CARRY
+
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: a3-tote-launch-edm-7
+DATE: 2025-03-06
+SERIES: A3 Daily Tote — Features / pockets
+--------------------------------------------------------------------------------
+NEW IN: A3 DAILY TOTE
+
+Pockets with purpose.
+
+Ready for office days, weekend excursions, and every adventure in between, the new
+A3 Daily Tote has a special place for everything you need — including your favourite
+memobottle.
+
+[LEARN MORE]
+
+DEDICATED A5, A6, AND A7 POCKETS
+There's a special place for your favourite flat water bottle, whichever that is.
+
+PADDED LAPTOP POCKET (UP TO 16")
+Designed to hold and protect your laptop, tablet, or other electronics.
+
+HIDDEN POCKET
+Secured by magnetic closure, so you can enjoy easy but discrete access to your keys,
+phone, and other high-use essentials.
+
+INTERNAL ZIPPER POCKET
+Perfect for cords, passports, small documents, and more.
+
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: copper-launch-edm-1
+DATE: 2025-03-11
+SERIES: Copper PVD Launch — Teaser / early access
+--------------------------------------------------------------------------------
+SUBSCRIBER-ONLY EARLY ACCESS
+
+COMING TOMORROW
+[COPPER]
+
+YOU GET FIRST ACCESS TO THIS LIMITED EDITION DROP.
+50 UNITS RESERVED JUST FOR SUBSCRIBERS.
+
+ARRIVING 12.03.25, 10AM AEDT
+
+BROWSE WHILE YOU WAIT:
+A3 DAILY TOTE | SATIN STEEL MEMOBOTTLE
+
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: copper-launch-edm-1.5
+DATE: 2025-03-11
+SERIES: Copper PVD Launch — Teaser / early access (second send)
+--------------------------------------------------------------------------------
+[Same copy as copper-launch-edm-1]
+
+SUBSCRIBER-ONLY EARLY ACCESS
+
+COMING TOMORROW
+[COPPER]
+
+YOU GET FIRST ACCESS TO THIS LIMITED EDITION DROP.
+50 UNITS RESERVED JUST FOR SUBSCRIBERS.
+
+ARRIVING 12.03.25, 10AM AEDT
+
+BROWSE WHILE YOU WAIT:
+A3 DAILY TOTE | SATIN STEEL MEMOBOTTLE
+
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: copper-launch-edm-2
+DATE: 2025-03-11
+SERIES: Copper PVD Launch — Live
+--------------------------------------------------------------------------------
+50 UNITS RESERVED FOR SUBSCRIBERS
+
+SUBSCRIBER-ONLY EARLY ACCESS
+
+Copper is here.
+
+The limited edition Copper PVD memobottle has arrived. With its distinctive
+warm-toned hue and metallic gleam, this bottle was made to be noticed.
+
+Only 50 units reserved for subscribers — get yours now before it sells out.
+
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: copper-launch-edm-3
+DATE: 2025-03-12
+SERIES: Copper PVD Launch — Final drop announcement
+--------------------------------------------------------------------------------
+FINAL LIMITED RELEASE
+
+Missed out on Copper? Final drop coming tomorrow.
+
+If you missed out on the first limited-edition drop, don't fret — we've heard you.
+
+Copper will return for a final limited release tomorrow, 13.03.25, at 12pm AEDT.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: copper-launch-edm-4
+DATE: 2025-03-13
+SERIES: Copper PVD Launch — Final drop live
+--------------------------------------------------------------------------------
+FINAL LIMITED RELEASE
+[COPPER]
+
+FINAL LIMITED RELEASE
+
+Copper is back, but not for long.
+
+You asked, and we brought it back. The Copper PVD memobottle has returned, but in
+limited quantities only.
+
+First in, best dressed — get in quick.
+
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: cool-grey-launch-edm-1
+DATE: 2025-03-20
+SERIES: Cool Grey Colourway Launch
+--------------------------------------------------------------------------------
+COOL GREY
+
+NEW COLOURWAY: COOL GREY
+
+Play it Cool
+
+Our latest colourway is seldom at the centre of attention, but is ready to step into
+the spotlight.
+
+Introducing Cool Grey, our new neutral. Soft and understated, this gentle shade is
+made for minimalists, designers, and dreamers — classic, but never boring.
+
+[DISCOVER COOL GREY]
+
+Now available across our Silicone Sleeve, Lid, and Coloured Bundle ranges.
+
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: cool-grey-launch-edm-2
+DATE: 2025-03-24
+SERIES: Cool Grey Colourway — Reminder
+--------------------------------------------------------------------------------
+Give your Original memobottle an all new look with Cool Grey. Available across our
+Silicone Sleeve, Lid, and Coloured Bundle ranges.
+
+[SHOP COOL GREY]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: cherry-blossom-launch-edm-1
+DATE: 2025-04-02
+SERIES: Cherry Blossom Colourway Launch
+--------------------------------------------------------------------------------
+CHERRY BLOSSOM IS HERE
+
+NEW COLOURWAY
+
+Cherry Blossom is here
+
+Our favourite and most fleeting season is here, and we've tried to capture the
+essence of its breathtaking blooms in our new colourway.
+
+Discover Cherry Blossom — our romantic, soft petal pink addition, created as a
+reminder to slow down and savour the moment.
+
+[DISCOVER CHERRY BLOSSOM]
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: cherry-blossom-launch-edm-2
+DATE: 2025-04-08
+SERIES: Cherry Blossom Colourway — Follow-up
+--------------------------------------------------------------------------------
+CHERRY BLOSSOM
+
+NEW COLOURWAY * CHERRY BLOSSOM
+
+Cherry-picked for you
+
+Drawing inspiration from our favourite season of the year — Cherry Blossom is here.
+
+Slow down, sip, and savour all of life's fleeting moments with this charming shade
+of pink.
+
+[SHOP NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: new-ss-colours-edm-1
+DATE: 2025-10-28
+SERIES: New Stainless Steel Colours (Pink Salt + Pistachio) — Launch
+--------------------------------------------------------------------------------
+A NEW CHAPTER IN COLOUR HAS ARRIVED
+
+[EXPLORE THE COLLECTION]
+
+LIMITED-EDITION
+
+The Stainless Steel memobottles you know and love are now in brand new,
+limited-edition colours.
+
+Expanding beyond our classic black and white bestsellers for the very first time,
+Pink Salt and Pistachio are here, in all four memobottle sizes.
+
+Inspired by Australia — our home of lush green landscapes and dazzling pink lakes
+— these new shades are soft, sophisticated, and unmistakably modern.
+
+[ORDER NOW BEFORE THEY'RE GONE]
+
+PINK SALT
+PISTACHIO
+
+Once they're gone, they won't return. Don't miss your chance to snap up these
+exclusive colours.
+
+[SHOP NOW]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+--------------------------------------------------------------------------------
+CAMPAIGN: new-ss-colours-edm-2
+DATE: 2025-10-30
+SERIES: New SS Colours — Pistachio spotlight
+--------------------------------------------------------------------------------
+NUTS ABOUT PISTACHIO
+
+[SHOP NOW]
+
+LIMITED-EDITION COLOURWAY
+
+The Stainless Steel memobottle in Pistachio celebrates the beauty of contrasts, with
+its understated colour palette perfectly balancing its bold, modernist design.
+
+[DISCOVER PISTACHIO]
+
+INSIDE THE PALETTE
+
+An earthy sage green gently softened by a hint of grey, Pistachio brings refined
+elegance to its confident, sculpted silhouette — creating a quietly luxurious bottle
+that matches your dynamic, multifaceted lifestyle.
+
+MADE FOR YOU
+Inspired by the calm, grounded beauty of nature, Pistachio is made for those who
+find beauty in every moment.
+
+CARRY WATER DIFFERENTLY
+A combination of form, function, and fashion, the memobottle's flat, paper-inspired
+shape is designed to fit seamlessly into handbags, backpacks, pockets, and more,
+making the most of the space you have.
+
+[SHOP NOW]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+--------------------------------------------------------------------------------
+CAMPAIGN: new-ss-colours-edm-3
+DATE: 2025-11-06
+SERIES: New SS Colours — Pink Salt spotlight
+--------------------------------------------------------------------------------
+DRINK PINK
+
+[SHOP NOW]
+
+LIMITED-EDITION COLOURWAY
+
+A modern take on the classic blush pink, Pink Salt's ethereal, pastel-like hue
+beckons a second look.
+
+[DISCOVER PINK SALT]
+
+BEHIND THE HUE
+Subtle red undertones weave warmth, depth, and playful intensity through this gentle
+shade. Delicate, yet intriguingly complex.
+
+DESIGNED FOR YOU
+Inviting a splash of creative, playful charm into your day, Pink Salt is designed for
+life in motion, and for those who go with the flow: the wanderers, the romantics, and
+the curious.
+
+EASY TO CARRY, HARD TO FORGET
+Slim and space-saving, the memobottle's unique shape makes it easier than ever to
+carry water conveniently, ensuring hydration is always within reach.
+
+[SHOP NOW]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+--------------------------------------------------------------------------------
+CAMPAIGN: butter-yellow-edm-1
+DATE: 2025-12-04
+SERIES: Butter Yellow Stainless Steel — Launch
+--------------------------------------------------------------------------------
+NOW SERVING: BUTTER YELLOW
+
+LIMITED-EDITION COLOURWAY
+
+Introducing the Stainless Steel bottle in Butter, that's anything but cookie-cutter.
+
+We're serving up Butter Yellow in all four memobottle sizes — explore the spread now
+before this limited-edition colourway melts away for good.
+
+[DISCOVER BUTTER YELLOW]
+
+FORM + FUNCTION
+Flat and space-saving design that allows for a Tetris-style fit in your bag — making
+the most of the space you have, minus the bulk.
+
+FASHION + FLAVOUR
+Inspired by life's golden moments, Butter Yellow's rich, decadent tone radiates
+warmth and comfort — reminiscent of slow mornings and gentle sunshine.
+
+A statement-maker made for the keepers of beautiful things.
+
+[EXPLORE THE SPREAD]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+--------------------------------------------------------------------------------
+CAMPAIGN: butter-yellow-edm-2
+DATE: 2025-12-06
+SERIES: Butter Yellow — Christmas gifting angle
+--------------------------------------------------------------------------------
+'TIS THE SEASON TO BE BUTTERY
+BUTTER YELLOW IS HERE
+[SHOP NOW]
+
+NEW LIMITED-EDITION STAINLESS STEEL
+
+The best way to spread Christmas cheer is gifting Butter Yellow before they disappear.
+
+Take the hassle out of Christmas gifting with this new, limited edition Stainless
+Steel colourway. Practical without sacrificing fun, the memobottle is the perfect
+thoughtful gift for those who appreciate something out-of-the-box.
+
+[SHOP CHRISTMAS GIFTS]
+
+Want more options? Check out our menu of other festive favourites.
+
+[SHOP NOW]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+
+================================================================================
+2. SEASONAL GIFTING
+================================================================================
+
+-- FATHER'S DAY --
+
+--------------------------------------------------------------------------------
+CAMPAIGN: fathers-day-edm-opt-out (2024)
+DATE: 2024-08-12
+SERIES: Father's Day 2024 — Opt-out
+--------------------------------------------------------------------------------
+If you want, we can circle back later
+
+Don't want to receive Father's Day or Mother's Day emails from us?
+
+You can opt-out from them below. We'll be back in touch with our regular programming
+after.
+
+[FATHER'S DAY OPT-OUT HERE]
+[MOTHER'S DAY OPT-OUT HERE]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: fathers-day-edm-1 (2024)
+DATE: 2024-08-19
+SERIES: Father's Day 2024
+--------------------------------------------------------------------------------
+Dad deserves an A+
+
+Give him one this Father's Day, with an A7, A6, A5, or Slim memobottle.
+
+And, with purchase of any Original memobottle, we'll add on an extra Lid of your
+choice.
+
+USE CODE AT CHECKOUT: FATHERSDAY
+
+[SHOP FOR FATHER'S DAY]
+
+*Offer valid until 1 September 2024 (11:59pm AEST). To claim, add any Original
+memobottle and Lid to your cart, and use the code 'FATHERSDAY' at checkout. Memobottle
+reserves the right to withdraw this offer at any time. Offer is subject to availability.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: fathers-day-edm-2 (2024)
+DATE: 2024-08-21
+SERIES: Father's Day 2024
+--------------------------------------------------------------------------------
+Every king needs his crown
+
+We're celebrating the kings in our lives with a special Father's Day offer.
+
+Gift your dad an Original memobottle, and receive an additional complimentary Lid
+with your purchase*.
+
+USE CODE AT CHECKOUT: FATHERSDAY
+
+[SHOP FOR FATHER'S DAY]
+
+*Offer valid until 1 September 2024 (11:59pm AEST). To claim, add any Original
+memobottle and Lid to your cart, and use the code 'FATHERSDAY' at checkout.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: fathers-day-edm-3 (2024)
+DATE: 2024-08-27
+SERIES: Father's Day 2024 — Last chance
+--------------------------------------------------------------------------------
+Last minute doesn't mean boring
+
+There's still time to get Dad a Father's Day gift — one he'll carry around for a long
+time to come.
+
+And, when you purchase any Original memobottle, we'll give you an extra Lid of your
+choice as well, on us*.
+
+A great Father's Day gift? Definitely.
+Last minute? Maybe. But we won't tell if you don't.
+
+USE CODE AT CHECKOUT: FATHERSDAY
+
+[SHOP FOR FATHER'S DAY]
+
+*Offer valid until 1 September 2024 (11:59pm AEST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: fathers-day-edm-1 (2025)
+DATE: 2025-08-21
+SERIES: Father's Day 2025
+--------------------------------------------------------------------------------
+For wherever he goes...
+
+LIMITED-TIME OFFER | FREE SILICONE SLEEVE*
+
+Built for briefcases and back pockets, get Dad the bottle that'll go wherever he goes.
+
+This Father's Day, celebrate Dad with a memobottle. For a limited time only, get a
+free matching Silicone Sleeve with every Original memobottle purchase*. Discount
+automatically applied at checkout.
+
+[SHOP NOW]
+
+*One free Silicone Sleeve of your choice with any Original memobottle purchase. The
+free Silicone Sleeve size must correspond to the Original memobottle size purchased.
+To claim, add your chosen Silicone Sleeve to your cart, no code needed. Offer ends
+4 September, 11:59pm AEST.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: fathers-day-edm-2 (2025)
+DATE: 2025-08-26
+SERIES: Father's Day 2025 — Team picks
+--------------------------------------------------------------------------------
+Pass Father's Day with flying colours
+
+FATHER'S DAY OFFER | FREE SILICONE SLEEVE*
+
+For a limited time only, receive a complimentary matching Silicone Sleeve of your
+choice when you get dad an Original memobottle*.
+
+Whether you want classic like Black Ink, or bright like Mandarin, we've got 10 shades
+to create the perfect customised gift he'll carry everywhere.
+
+[SHOP NOW]
+
+Dad-approved colours — the team's picks:
+
+JESSE'S PICK — Slim memobottle in Cool Grey
+It's the perfect neutral shade, and also reminds me of my sketching markers back at
+uni. It's ridiculous how well the Slim fits in my backpack. It's easy to grab on the
+go, and never gets lost thanks to its length.
+
+JONNO'S PICK — A5 memobottle in Cool Grey
+I drink a lot of water (4-5L a day), so the A5 makes the most sense for me. I'm
+loving the clean, minimal look and feel of the Cool Grey — sits nicely alongside the
+things that I'm carrying and the clothes that I'm wearing.
+
+JOEY'S PICK — A6 memobottle in Sea Mist
+My favourite colour is Sea Mist because it reminds me of going to the beach with my
+kids. I love the A6 — it fits in my bag while still having good capacity, so less
+trips to fill up.
+
+[SHOP NOW]
+
+*One free Silicone Sleeve of your choice with any Original memobottle purchase. Offer
+ends 4 September, 11:59pm AEST.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: fathers-day-edm-3 (2025)
+DATE: 2025-08-31
+SERIES: Father's Day 2025 — Final call
+--------------------------------------------------------------------------------
+FINAL CALL for Father's Day
+
+ENDS SOON | FREE SILICONE SLEEVE
+
+Last chance to deck out dad's new favourite water bottle for free.
+
+Get in quick to claim your free matching Silicone Sleeve, when you purchase an
+Original memobottle*.
+
+[SHOP NOW]
+
+*One free Silicone Sleeve of your choice with any Original memobottle purchase. Offer
+ends 4 September, 11:59pm AEST.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: fathers-day-edm-4 (2025)
+DATE: 2025-09-06
+SERIES: Father's Day 2025 — Last minute / e-gift cards
+--------------------------------------------------------------------------------
+THE LAST-MINUTE GIFT THAT'S RIGHT ON TIME
+
+FATHER'S DAY E-GIFT CARDS
+
+Now, we don't want you to panic, but... Father's Day is tomorrow.
+
+So if you left your gift to the very last minute, we're here to help save the day.
+
+Perfect for the "I don't mind" Dads and father figures, our e-Gift Cards are the
+quick — but still thoughtful — gifts for those who are a little tricky to buy for.
+
+And your secret's safe with us, we won't tell Dad you almost forgot.
+
+[SHOP GIFT CARDS]
+
+-- MOTHER'S DAY --
+
+--------------------------------------------------------------------------------
+CAMPAIGN: mothers-day-edm-opt-out
+DATE: 2025-04-17
+SERIES: Mother's Day 2025 — Opt-out
+--------------------------------------------------------------------------------
+If you prefer, we can circle back later
+
+Don't want to receive Mother's Day or Father's Day emails from us?
+
+You can opt out from them below. We'll be back in touch with our regular programming
+after.
+
+[MOTHER'S DAY OPT-OUT HERE]
+[FATHER'S DAY OPT-OUT HERE]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: mothers-day-edm-2
+DATE: 2025-04-24
+SERIES: Mother's Day 2025
+--------------------------------------------------------------------------------
+Mother's Day
+
+BUY ANY ORIGINAL MEMOBOTTLE, GET A FREE SILICONE SLEEVE*
+
+Celebrate Mum or a maternal figure in your life with a one-of-a-kind gift they can
+carry everywhere.
+
+For a limited time only, get a complimentary matching Silicone Sleeve with every
+Original memobottle purchase*.
+
+From the soft and gentle Cool Grey, to the vibrant Mandarin — we've got 10 beautiful
+shades to select from, to perfectly tailor your gift to your special recipient.
+
+[SHOP NOW]
+
+*One free Silicone Sleeve with any Original memobottle purchase. Offer ends 6 May,
+11:59pm PDT.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: mothers-day-edm-3
+DATE: 2025-04-30
+SERIES: Mother's Day 2025 — Team picks
+--------------------------------------------------------------------------------
+Mother's Day
+
+MOTHER'S DAY OFFER: ENDS MAY 6
+
+Whether for Mum, a mentor, or yourself — make a special someone's day with a
+memobottle.
+
+For a limited time only, receive a free matching Silicone Sleeve of your choice with
+every purchase of an Original memobottle*.
+
+[SHOP NOW]
+
+Memo-mums know best — team picks:
+
+SHIELA'S PICK — A6 memobottle in Cherry Blossom
+My favourite colour is pink and the A6 is not too big and not too small, just right
+for my go-to bag.
+
+MAY ANN'S PICK — Slim memobottle in Moss Green
+The Slim fits perfectly into my baby bag — giving me enough space for other baby
+essentials, without needing to switch to a larger bag. As for colour, my top pick is
+Moss Green!
+
+RITZ'S PICK — A5 memobottle in Cherry Blossom
+It's my daughter's favourite colour, and the A5 is big enough that I can stay
+hydrated throughout the day.
+
+AILEEN'S PICK — A7 memobottle in Black Ink
+Black Ink is the perfect neutral — minimalist while looking professional at the
+same time.
+
+[SHOP NOW]
+
+*One free Silicone Sleeve with any Original memobottle purchase. Offer ends 6 May,
+11:59pm PDT.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: mothers-day-edm-4
+DATE: 2025-05-04
+SERIES: Mother's Day 2025 — Final call + giveaway
+--------------------------------------------------------------------------------
+ENDS MAY 6 | FREE SILICONE SLEEVE
+
+IT'S NOT TOO LATE TO MAKE YOUR Mother's Day
+
+Brighten Mum's day with a splash of colour.
+
+But hurry, our Mother's Day offer ends soon — this is your last chance to claim your
+free matching Silicone Sleeve, when you purchase an Original memobottle*.
+
+[SHOP NOW]
+
+Mother's Day Giveaway
+WIN A GIFT SET WORTH OVER $1,500^
+
+Enter our giveaway and be in the running to win a gift set filled with essentials
+Mum will love, including a limited edition Copper memobottle, A3 Daily Tote, A5
+memobottle (Bundle), and a $250 Memobottle gift card, along with must-haves from
+friends of the brand.
+
+PARTICIPATING BRANDS: Mihan Aromatics, thankyou., LOVE TEA, komb
+Open to AUS residents only.
+
+[ENTER GIVEAWAY ON INSTAGRAM]
+
+*Offer ends 6 May, 11:59pm PDT. Open to AUS residents only.
+
+-- VALENTINE'S DAY --
+
+--------------------------------------------------------------------------------
+CAMPAIGN: valentines-day-edm-1
+DATE: 2025-02-04
+SERIES: Valentine's Day 2025
+--------------------------------------------------------------------------------
+LIMITED-TIME OFFER
+
+Better together, this Valentine's Day
+
+Celebrate someone special — yourself included — during this season of love.
+
+And, let us treat you — get a free Slim Original memobottle, with orders of $150
+and above*.
+
+[SHOP NOW]
+
+*Get one free Slim Original memobottle with minimum spend of $150, per order. No
+code needed, added automatically at checkout. Offer ends 14 February (11:59pm PT).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: valentines-day-edm-2
+DATE: 2025-02-06
+SERIES: Valentine's Day 2025
+--------------------------------------------------------------------------------
+FREE MEMOBOTTLE — OFFER ENDS SOON
+
+Gift-giving is our love language
+
+This Valentine's Day, we're celebrating love of all forms — friends, family,
+significant others, and more.
+
+Let your loved ones know you're thinking of them, with the gift of convenient
+hydration. To top it off, here's our gift to you — spend $150 or more, and we'll
+add a free Slim Original memobottle to your order*.
+
+[SHOP NOW]
+
+BOTTLES FIT FOR EVERYONE
+
+[EXPLORE THE RANGE]
+
+*Offer ends 14 February (11:59pm PT).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: valentines-day-edm-3
+DATE: 2025-02-09
+SERIES: Valentine's Day 2025 — Final call
+--------------------------------------------------------------------------------
+ENDS SOON — VALENTINE'S DAY OFFER
+
+Last chance to get your free memobottle
+
+We don't want to go breaking your heart — but time's running out to claim your free
+Slim Original memobottle, with orders of $150 and above*.
+
+Don't miss out, get in quick.
+
+[SHOP NOW]
+
+*Offer ends 14 February (11:59pm PT).
+
+-- CHRISTMAS --
+
+--------------------------------------------------------------------------------
+CAMPAIGN: xmas-packs-edm-1
+DATE: 2024-12-05
+SERIES: Christmas 2024
+--------------------------------------------------------------------------------
+WANT YOUR DELIVERY IN TIME FOR CHRISTMAS?
+PLACE YOUR ORDERS BY 17 DEC (AUS)
+
+It's beginning to look a lot like a Memo Christmas
+
+Your one stop shop for all your Christmas gifting.
+
+Secret Santa with a budget? Check.
+A gift for that someone who "doesn't want anything"? Check.
+Everyone in between? Check.
+
+Plus, we've made it even easier for you to shop, with exclusive savings on our
+specially curated value packs and our coloured memobottle bundles.
+
+Explore our Christmas offers below.
+
+[SHOP NOW]
+
+FREE SHIPPING WHEN YOU SPEND $100 OR MORE (AUS ONLY)
+
+Get $50 to spend on value packs*
+We've hand picked some of your favourite memobottles and created special value packs
+so you can shop — and save — in bulk.
+
+Use code at checkout: MEMOXMAS
+
+[SHOP NOW]
+
+Save with coloured bundles
+Our Original memobottles are now available all bundled up with a matching coloured
+Silicone Sleeve and Lid.
+
+[SHOP NOW]
+
+*Get $50 to spend on any of the 8 value packs available on memobottle.com/collections/
+gift-packs. Use code MEMOXMAS at checkout to redeem. Offer ends 20 December 2024
+(11:59pm PST). Subject to availability, while stocks last.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: xmas-packs-edm-2
+DATE: 2024-12-11
+SERIES: Christmas 2024 — Coloured bundles
+--------------------------------------------------------------------------------
+SAVE UP TO 19% ON COLOURED BUNDLES
+
+Brilliant Bundles
+
+Rich greens. Vibrant oranges. Deep plums.
+Inspired by nature, to add a splash of colour to your everyday life.
+
+This Christmas, shop our coloured bundles — get the Original memobottle with a
+matching Silicone Sleeve and Lid, and save up to 19% off.
+
+[SHOP NOW]
+
+WANT YOUR DELIVERY IN TIME FOR CHRISTMAS?
+PLACE YOUR ORDERS BY 17 DEC (AUS)
+
+Get $50 to spend on Value Packs*
+Use code MEMOXMAS at checkout.
+
+NEW IN: Satin Steel memobottle
+With a sandblasted satin finish that is as durable as it is elegant.
+
+[SHOP NOW]
+
+FREE SHIPPING WHEN YOU SPEND $100 OR MORE (AUS ONLY)
+
+*Offer ends 20 December 2024 (11:59pm PST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: xmas-packs-edm-3
+DATE: 2024-12-17
+SERIES: Christmas 2024 — Value packs
+--------------------------------------------------------------------------------
+PACK A PUNCH THIS CHRISTMAS
+
+Discover eight curated Value Packs designed to help your gift budget go a little
+further.
+
+Order now and enjoy $50 to spend on Value Packs*. Hurry — this offer ends soon.
+
+Use code at checkout: MEMOXMAS
+
+[SHOP NOW]
+
+WANT YOUR DELIVERY IN TIME FOR CHRISTMAS?
+EXPRESS SHIPPING CUT-OFF: 20 DEC (AUS)
+
+NEW IN: Satin Steel memobottle
+
+Save up to 19% with coloured bundles
+
+[SHOP NOW]
+
+FREE EXPRESS SHIPPING WHEN YOU SPEND $160 OR MORE (AUS)
+
+*Offer ends 20 December 2024 (11:59pm PST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: xmas-packs-edm-4
+DATE: 2024-12-18
+SERIES: Christmas 2024 — Satin Steel product focus
+--------------------------------------------------------------------------------
+WANT YOUR DELIVERY IN TIME FOR CHRISTMAS?
+EXPRESS SHIPPING CUT-OFF: 20 DEC (AUS)
+
+Now showing: Satin Steel
+
+Sure, we could tell you all about Satin Steel's amazing features and why we're
+obsessed over it — so how about we just show you instead?
+
+[SHOP NOW]
+
+Product features:
+SAND-BLASTED MATTE FINISH
+LEAK-PROOF LID
+304 STAINLESS STEEL
+
+FREE SHIPPING WHEN YOU SPEND $160 OR MORE (AUS)
+
+Get $50 to spend on Value Packs*
+Save up to 19% with coloured bundles
+
+[SHOP NOW]
+
+*Offer ends 20 December 2024 (11:59pm PST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: xmas-shipping-express-edm-1
+DATE: 2024-12-16
+SERIES: Christmas 2024 — Express shipping offer
+--------------------------------------------------------------------------------
+4 DAYS ONLY:
+Free express shipping
+
+With orders of $160 and above.
+
+[SHOP NOW]
+
+Get $50 to spend on Value Packs*
+Use code MEMOXMAS at checkout.
+
+Save up to 19% with coloured bundles
+
+NEW IN: Satin Steel memobottle
+
+[SHOP NOW]
+
+*Offer ends 20 December 2024 (11:59pm PST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: xmas-shipping-express-edm-2
+DATE: 2024-12-19
+SERIES: Christmas 2024 — Express shipping ends tonight
+--------------------------------------------------------------------------------
+Free Express Shipping
+ENDS TONIGHT
+
+Last chance to get Free Express Shipping, just in time for Christmas, with orders
+of $160 and above.
+
+Hurry, this offer ends tonight.
+
+[SHOP NOW]
+
+Get $50 to spend on Value Packs* | Save up to 19% with coloured bundles | Satin Steel
+
+[SHOP NOW]
+
+*Offer ends tonight (11:59pm PST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: xmas-shipping-express-edm-3
+DATE: 2024-12-19
+SERIES: Christmas 2024 — Express shipping 2 hours left
+--------------------------------------------------------------------------------
+2 hours left for Christmas Shipping
+
+You've got gifts to check off your Christmas list, and we've got Free Express
+Shipping to help you win "Best Gift Giver" of 2024.
+
+Offer valid for orders of $160 and above. Get in quick, only 2 hours left to shop.
+
+[SHOP NOW]
+
+*Offer ends tonight.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: christmas-gifting-edm-1
+DATE: 2025-12-07
+SERIES: Christmas 2025 — $30 off offer
+--------------------------------------------------------------------------------
+72 HOURS ONLY:
+Get $30 off your order of $140
+[SHOP NOW]
+
+HURRY, OFFER ENDS 10 DECEMBER
+Oh the weather outside is frightful, but this deal is so delightful
+
+We know your inbox is a little chaotic right now with Christmas gifting ideas and
+options, but hear us out.
+
+This gifting season, treat your loved ones to the premium, convenient version of an
+everyday essential — one that's guaranteed to impress even the hard-to-shop-for
+individuals on your list.
+
+Plus, we've got a special gift of our own: Get $30 off your order when you spend
+$140 on your Christmas haul* — but hurry, this offer is only valid for the next
+72 hours!
+
+[CLAIM YOUR CHRISTMAS OFFER]
+
+The Christmas Gift Edit — OUR BESTSELLERS FOR A REASON
+
+DON'T FORGET YOUR EXCLUSIVE $10 BLACK FRIDAY THANK-YOU GIFT
+Get an additional $10 OFF — ORDERS $140+
+USE CODE THANKYOU10 AT CHECKOUT
+
+WANT YOUR DELIVERY IN TIME FOR CHRISTMAS?
+12 DEC — AUS REGIONAL
+15 DEC — AUS METRO
+
+[SHOP NOW]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+*Valid until 10 December 2025 (5pm AEDT). ^Code THANKYOU10 valid until 20 December
+2025 (11:59pm AEDT).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: christmas-gifting-edm-1b
+DATE: 2025-12-07
+SERIES: Christmas 2025 — $30 off offer (variant B — no THANKYOU10 mention)
+--------------------------------------------------------------------------------
+72 HOURS ONLY:
+Get $30 off your order of $140
+[SHOP NOW]
+
+HURRY, OFFER ENDS 10 DECEMBER
+Oh the weather outside is frightful, but this deal is so delightful
+
+We know your inbox is a little chaotic right now with Christmas gifting ideas and
+options, but hear us out.
+
+This gifting season, treat your loved ones to the premium, convenient version of an
+everyday essential — one that's guaranteed to impress even the hard-to-shop-for
+individuals on your list.
+
+Plus, we've got a special gift of our own: Get $30 off your order when you spend
+$140 on your Christmas haul* — but hurry, this offer is only valid for the next
+72 hours!
+
+[CLAIM YOUR CHRISTMAS OFFER]
+
+The Christmas Gift Edit — OUR BESTSELLERS FOR A REASON
+
+WANT YOUR DELIVERY IN TIME FOR CHRISTMAS?
+12 DEC — AUS REGIONAL | 15 DEC — AUS METRO
+
+[SHOP NOW]
+
+*Valid until 10 December 2025 (5pm AEDT).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: christmas-gifting-edm-2
+DATE: 2025-12-11
+SERIES: Christmas 2025 — Free shipping
+--------------------------------------------------------------------------------
+FREE SHIPPING*
+
+HO HO HO-LD ON, DID SOMEONE SAY... FREE SHIPPING?
+LIMITED-TIME OFFER
+[SHOP NOW]
+
+HURRY, OFFER ENDS 15 DECEMBER
+You've made a Christmas list, and checked it twice... Now let us help you get your
+gifts delivered — on us.
+
+For 5 days only, enjoy complimentary shipping with orders of $40 and above
+(Australia only)*.
+
+Give the gift of convenient hydration this Christmas. Explore the Memobottle range.
+
+[CLAIM YOUR CHRISTMAS OFFER]
+
+PERFECT GIFTS FOR THAT SOMEONE WHO "doesn't need anything"
+
+WANT YOUR DELIVERY IN TIME FOR CHRISTMAS?
+12 DEC — AUS REGIONAL | 15 DEC — AUS METRO
+
+[SHOP NOW]
+
+*Free shipping on orders of $40+ (AUS only). Valid until 15 December 2025 (5pm AEDT).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: christmas-gifting-edm-3
+DATE: 2025-12-16
+SERIES: Christmas 2025 — Amazon redirect (missed cutoff)
+--------------------------------------------------------------------------------
+LEFT IT TOO LATE?
+Amazon has you covered
+[SHOP NOW]
+
+Fa-la-la-la-last chance to get your order by Christmas
+
+Missed our delivery cutoff date?
+
+You don't have to brave the in-person Christmas crowds yet — the Amazon delivery
+windows are still open.
+
+Get in quick and place your orders for fast delivery by Christmas.
+
+[SHOP MEMOBOTTLE ON AMAZON]
+
+Treat your loved ones (and yourself) this Christmas.
+
+[SHOP NOW]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+--------------------------------------------------------------------------------
+CAMPAIGN: christmas-gifting-edm-4
+DATE: 2025-12-18
+SERIES: Christmas 2025 — In-store redirect (last minute)
+--------------------------------------------------------------------------------
+STILL NEED A GIFT?
+Find us in-store at Milligram and David Jones
+[SHOP NOW]
+
+Others may call it "last minute", but we call it "just in the (Saint) Nick of time".
+
+If you're still looking for the perfect Christmas gift, you can find your recipient's
+new favourite water bottles in-store at your nearest Milligram and David Jones.
+
+[FIND A STORE NEAR YOU]
+
+Check out the Memobottle product range in-person.
+
+[FIND A STORE NEAR YOU]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+
+================================================================================
+3. SALE / PROMOTIONAL
+================================================================================
+
+--------------------------------------------------------------------------------
+CAMPAIGN: cobranding-d2c-edm-1
+DATE: 2024-10-30
+TYPE: B2B / Corporate gifting — D2C audience
+--------------------------------------------------------------------------------
+PICTURE THIS: YOUR LOGO HERE
+
+Ask the boss for a memobottle
+
+Love what you do and you'll want to get your company's logo on your water bottle.
+
+If that sounds like you, why not show your commitment and ask the boss for a
+memobottle?
+
+Not only will it keep you and the team hydrated, it'll also be a stylish reminder
+that your company means business.
+
+[LEARN MORE]
+
+TWO-WEEK TURNAROUND | 50 UNIT MINIMUM
+
+A memorable gift for your team, employees, or clients
+
+Customised just for you
+Your choice of colour printing or laser engraving
+
+Among great company
+Join the likes of Spotify & TikTok in showing off your customised memobottles.
+
+[LEARN MORE]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: eofys-edm-1a
+DATE: 2025-06-19
+SERIES: End of Financial Year Sale
+--------------------------------------------------------------------------------
+EOFY OFFER — JUST FOR YOU
+
+Enjoy $20 off your next order
+
+Feeling the mid-year slump? We get it.
+
+That's why we've come bearing an exclusive offer for our email subscribers. For a
+limited time only, unlock a $20 e-voucher, when you spend $100 and above*.
+
+Refresh the way you hydrate and finish 2025 strong.
+
+VOUCHER CODE: [personalised]
+
+[EXPLORE OUR BESTSELLERS]
+[SHOP NOW]
+
+*Spend a minimum of $100 on memobottle.com and get a $20 gift card to use on the
+same order. Offer ends 30 June 2025 (11:59pm AEST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: eofys-edm-2
+DATE: 2025-06-24
+SERIES: End of Financial Year Sale — Reminder
+--------------------------------------------------------------------------------
+Reminder
+
+Get a $20 e-voucher to put towards your order of $100 or more*
+
+[Let's go] [Count me in]
+
+VOUCHER CODE: [personalised]
+
+*Offer ends 30 June 2025 (11:59pm AEST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: eofys-edm-4
+DATE: 2025-06-30
+SERIES: End of Financial Year Sale — Ends tonight
+--------------------------------------------------------------------------------
+ENDS TONIGHT — EOFY OFFER
+
+Ends tonight: $20 off
+
+Last chance to shop and save. Your exclusive $20 e-voucher expires at 11:59pm
+tonight* — don't miss out.
+
+VOUCHER CODE: [personalised]
+
+SELLING FAST
+
+[SHOP NOW]
+
+*Offer ends 30 June 2025 (11:59pm AEST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: 50%-accessories-edm-1
+DATE: 2025-09-18
+SERIES: 50% Off Accessories
+--------------------------------------------------------------------------------
+50% off accessories
+
+[SHOP NOW]
+
+Your memobottle's perfect match, now half off
+
+Some things just belong together — Vegemite and toast, Monica and Chandler, the
+memobottle and its accessory.
+
+For a limited time only, buy any memobottle and get its perfect accessory match for
+50% off*. Choose from our wide range of Silicone Sleeves, Lids, or Desk Stands to
+create the perfect customised pairing that's uniquely you.
+
+[SHOP NOW]
+
+A match made in hydration
+
+[SHOP NOW]
+
+*Buy any Original or Stainless Steel memobottle and get 50% off an accessory of your
+choice (Silicone Sleeve, Lid, Desk Stand). Discount automatically applied at checkout.
+Offer ends 16 October 2025 (11:59pm AEST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: 50%-accessories-edm-2
+DATE: 2025-10-02
+SERIES: 50% Off Accessories — Follow-up
+--------------------------------------------------------------------------------
+50% OFF ACCESSORIES
+
+It's a match!
+YOUR MEMOBOTTLE + ITS ACCESSORY
+
+[FIND YOUR MATCH]
+[SHOP NOW]
+
+Your memobottle's perfect accessory match is now 50% off.
+
+Swipe right and save on your favourite Silicone Sleeves, Lids, and Desk Stands when
+you purchase any memobottle*.
+
+It's time to make your move — don't let this match get away.
+
+[SHOP NOW]
+
+*Offer ends 16 October 2025 (11:59pm AEST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: 50%-accessories-edm-3
+DATE: 2025-10-14
+SERIES: 50% Off Accessories — Final hours
+--------------------------------------------------------------------------------
+FINAL HOURS
+
+Accessories at 50% off
+
+Last chance to claim 50% off Accessories
+
+You're at the final step: Your favourite accessories are all now 50% off, but
+they're disappearing fast.
+
+Snag your Silicone Sleeves, Lids, and Desk Stands for half the price when you
+purchase any memobottle* — but just between us, you should hurry because this offer
+ends in a few hours.
+
+[SHOP NOW]
+
+*Offer ends 16 October 2025 (11:59pm AEST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: 50%-accessories-edm-4
+DATE: 2025-10-15
+SERIES: 50% Off Accessories — Ends tomorrow
+--------------------------------------------------------------------------------
+OFFER ENDS TOMORROW
+
+50% OFF ACCESSORIES
+
+[FIND YOUR MATCH]
+[SHOP NOW]
+
+Get in quick, offer ends tomorrow
+
+Decisions, decisions... Should you customise your memobottle with a Sea Mist Silicone
+Sleeve, or Cool Grey? Go monochrome with a matching Lid as well, or do a completely
+unexpected colour pairing?
+
+Well, here's the good news: You can get all your favourite accessories at 50% off
+when you purchase any memobottle*... but you have to act fast, because this exclusive
+offer ends tomorrow.
+
+[SHOP NOW]
+
+*Buy any Original or Stainless Steel memobottle and get 50% off up to five accessories
+of your choice. Offer ends 16 October 2025 (11:59pm AEDT).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: boxing-offer-edm-1
+DATE: 2024-12-26
+SERIES: Boxing Day 2024
+--------------------------------------------------------------------------------
+26-28 DECEMBER
+OUR BOXING DAY EVENT IS HERE
+
+WE'RE OUT OF OFFICE — COPY THIS CODE
+
+The Memo team is currently OOO, but we weren't going to let you miss out on our
+exclusive Boxing Day offer.
+
+If you've been eyeing a sweet new memobottle to kickstart your new year hydration
+goals, we're here to help.
+
+For a limited time only, spend $100 and we'll give you an additional $20 to shop with*.
+
+Use code at checkout: BOX20
+
+[SHOP NOW]
+
+Save up to 19% with coloured bundles
+NEW IN: Satin Steel memobottle
+
+[SHOP NOW]
+
+*Spend a minimum of $100 on memobottle.com.au and get an additional $20. Offer ends
+28 December 2024 (11:59pm PST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: boxing-offer-edm-1.5
+DATE: 2024-12-26
+SERIES: Boxing Day 2024 (second send, same day)
+--------------------------------------------------------------------------------
+[Same copy as boxing-offer-edm-1]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: boxing-offer-edm-2
+DATE: 2024-12-28
+SERIES: Boxing Day 2024 — Ends tonight
+--------------------------------------------------------------------------------
+26-28 DECEMBER
+OUR BOXING DAY ENDS TONIGHT
+
+WE'RE OUT OF OFFICE — COPY THIS CODE
+
+Before we box up our Boxing Day offer, a reminder that you can still get an additional
+$20 to spend on your order of $100 or more*.
+
+But get in quick, this offer ends tonight.
+
+Use code at checkout: BOX20
+
+[SHOP NOW]
+
+Save up to 19% with coloured bundles
+NEW IN: Satin Steel memobottle
+
+[SHOP NOW]
+
+*Offer ends 28 December 2024 (11:59pm PST).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: boxing-offer-edm-2.5
+DATE: 2024-12-28
+SERIES: Boxing Day 2024 — Ends tonight (second send)
+--------------------------------------------------------------------------------
+[Same copy as boxing-offer-edm-2]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-hype-edm-1-engaged
+DATE: 2025-11-09
+SERIES: Black Friday / Cyber Monday 2025 — Hype / teaser (engaged audience)
+--------------------------------------------------------------------------------
+BLACK FRIDAY SALE
+STARTS 11TH NOVEMBER
+SAVE THE DATE
+
+You asked. We listened. Sale is coming.
+
+It's been 5 long years since our last sale, but that all changes on 11 November.
+
+Start prepping your cart, because you'll want to be among the first 500 customers to
+order a memobottle.
+
+FREE LIMITED-EDITION DESK STAND — FIRST 500 ONLY
+
+Why? Well, aside from some major sitewide savings, our early birds will unlock an
+exclusive gift: A limited-edition Universal Desk Stand in a brand new colourway that
+you can't buy anywhere.
+
+Set your alarms — sale starts 8am AEDT!
+
+[PREP YOUR CART]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-launch-edm-1
+DATE: 2025-11-10
+SERIES: Black Friday / Cyber Monday 2025 — Launch
+--------------------------------------------------------------------------------
+BLACK FRIDAY
+UP TO 40% OFF SITEWIDE
+[SHOP SALE]
+
+Up to 40% off sitewide — yes, everything.
+
+Plus, the first 500 shoppers get an exclusive gift. We're giving our early birds a
+special, limited-edition Universal Desk Stand in Red Maple with purchase of any
+memobottle*, so hurry and claim yours!
+
+OUR BIGGEST. SALE. EVER. IS HERE
+
+Wait... are you still reading this? There's no time to waste, start shopping now.
+
+[SHOP SALE]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+*Gift automatically added to cart for the first 500 shoppers to buy any memobottle.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-launch-edm-2
+DATE: 2025-11-12
+SERIES: BFCM 2025 — Gift with purchase focus
+--------------------------------------------------------------------------------
+BLACK FRIDAY: UP TO 40% OFF SITEWIDE
+
+NOT FOR SALE
+BUT WE'LL GIFT IT TO YOU IF YOU ACT FAST
+[SHOP SALE]
+
+ICYMI, our first sale in 5 years is live, and you can now enjoy savings of up to
+40% sitewide.
+
+But that's not all! We've created an extra special gift for you this Black Friday.
+Introducing our brand new Universal Desk Stand in Red Maple, a rich ruby red that
+we simply can't get enough of.
+
+GIFT WITH PURCHASE — WITH ORDERS $75 & ABOVE*
+
+This exclusive, limited-edition colourway is NOT for sale — but it's our gift to
+you, with orders of $75 and above*. Only available while stock lasts, so get in
+quick to claim yours!
+
+[CLAIM YOURS]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+*Gift automatically added to cart with orders of $75 and above.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-launch-edm-3
+DATE: 2025-11-16
+SERIES: BFCM 2025 — Social proof / community reviews
+--------------------------------------------------------------------------------
+BLACK FRIDAY: UP TO 40% OFF SITEWIDE
+
+OUR COMMUNITY HAS SPOKEN
+Here are your most-loved picks on sale
+[SHOP SALE]
+
+Selling fast
+
+It's time to take your wishlist from virtual to reality. Consider this your sign to
+treat yourself — save up to 40% sitewide for a limited time only.
+
+Customer reviews:
+
+"Love this tiny water bottle! It's perfectly sized to fit in an evening bag or even
+the pocket of a coat." — Leanne A
+
+"It's the perfect size to take on my long-haul flights as it's not too big and fits
+neatly into my carry-on bag. I liked it so much, I got one for my husband." — Louise M
+
+"Great buy for busy commuters carrying work between meetings around town. I got sick of
+trying to fit a big, round water bottle into the square shape of a laptop bag." — James C
+
+"Fits in my work bag, backpacks, purses, with my notebooks. It's a daily reminder to
+drink more water. I'm so happy I don't have to think of memobottles gifting this year
+— everyone's getting memobottles!" — Ava H
+
+[SHOP BESTSELLERS]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-lauch-edm-5
+DATE: 2025-11-19
+SERIES: BFCM 2025 — Build your bottle / accessories
+--------------------------------------------------------------------------------
+BLACK FRIDAY: UP TO 40% OFF SITEWIDE
+
+Personalise Your Bottle — Up to 40% Off Ends Soon
+[SHOP SALE]
+
+This Black Friday, our sale is coming in hot. Personalise your memobottle with our
+wide range of accessories, and enjoy up to 40% off while you're at it.
+
+Your favourite accessories won't wait, and neither should you.
+
+BUILD YOUR BOTTLE
+
+1 / Choose your memobottle
+Select from 4 convenient, travel-ready sizes.
+
+2 / Choose your Silicone Sleeve
+Add personality and protection to your new favourite water bottle.
+
+3 / Top it off with a Coloured Lid
+Twist and shout. Our Lids come with a leak-proof design, in a wide range of colours
+and finishes.
+
+4 / Add a Desk Stand
+Crafted from durable powder-coated steel, the Desk Stand keeps your memobottle
+propped up and displayed on your desk.
+
+[SHOP BESTSELLERS]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-launch-edm-6
+DATE: 2025-11-21
+SERIES: BFCM 2025 — Stainless Steel focus
+--------------------------------------------------------------------------------
+BLACK FRIDAY: UP TO 40% OFF SITEWIDE
+
+Stainless Steel. Sale. Selling fast.
+[SHOP SALE]
+
+The Stainless Steel memobottles — aka the bottles that never stay in stock, because
+they keep selling out over and over.
+
+If you've missed out before, now's your chance to grab it before it's gone again.
+
+Shop and save up to 40% sitewide this Black Friday (or regret it later).
+
+DURABLE SATIN-TEXTURED POWDERCOAT FINISH
+BUILT TO LAST | MADE FOR TRAVEL | FITS IN YOUR BAG
+
+[GET IN QUICK]
+
+OTHER BLACK FRIDAY PERKS*
+Free Bottle Cleaning Tablets — ORDERS $65+
+Free Desk Stand in Red Maple — ORDERS $90+
+Get an EXTRA 10% OFF — ORDERS $140+
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+*Valid until 1 December 2025 (11:59pm AEDT), while stock lasts.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-launch-edm-7
+DATE: 2025-11-22
+SERIES: BFCM 2025 — Extra $10 voucher
+--------------------------------------------------------------------------------
+BLACK FRIDAY: UP TO 40% OFF SITEWIDE
+
+Here's an extra $10 VOUCHER to spend on water's favourite bottle
+
+The Black Friday delights continue.
+
+Up to 40% off sitewide? Check.
+An extra $10 voucher? Check.
+
+Your new memobottle is waiting, so complete your purchase before it's gone. Use code
+TAKETEN at checkout to get an additional $10 off your order of $75 and above*.
+
+[REDEEM MY $10]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-launch-edm-8
+DATE: 2025-11-25
+SERIES: BFCM 2025 — UGC / community social proof
+--------------------------------------------------------------------------------
+BLACK FRIDAY: UP TO 40% OFF SITEWIDE
+
+Water carried differently
+as seen via the Memobottle community
+
+We hate to be the bearer of bad news, but... Our only sale of the year is ending soon.
+
+New to the flat bottle society or unsure where to start? Here's some thoughts and
+inspiration straight from our community.
+
+"Love ours! Everyone comments on them when we travel!" — @msmeliss12
+
+"I've got two of these and carry one all the time — a fantastic and practical shape!"
+— @carmel.elbourne
+
+"I use the A6 at home and the A7 when I go out with a smaller bag!" — @oezgexkumru
+
+Well, you heard them. Get in quick to save up to 40% on the bottle that looks,
+feels, and fits different.
+
+[SHOP BEFORE IT ENDS]
+
+OTHER BLACK FRIDAY PERKS*
+Free Bottle Cleaning Tablets — ORDERS $65+
+Free Desk Stand in Red Maple — ORDERS $90+
+Get an EXTRA 10% OFF — ORDERS $140+
+
+[SHOP NOW]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+*Valid until 27 November 2025 (11:59pm AEDT), while stock lasts.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-launch-edm-9
+DATE: 2025-11-27
+SERIES: BFCM 2025 — Upgraded to 50% off
+--------------------------------------------------------------------------------
+BLACK FRIDAY JUST GOT BIGGER AND BETTER
+
+NOW UP TO 50% SITEWIDE
+
+Just when you thought it couldn't get better, it has.
+
+To celebrate our first sale in 5 years, we're bumping our Black Friday offer to up
+to 50% off sitewide.
+
+Treat yourself and your loved ones — but don't wait too long, this is your final
+weekend to shop our sale.
+
+[SHOP SALE]
+
+NEW BLACK FRIDAY PERKS*
+Get an EXTRA $10 OFF — ORDERS $125+
+USE CODE BONUS10 AT CHECKOUT
+
+Free Slim Original memobottle — ORDERS $160+
+GIFT ADDED TO CART AUTOMATICALLY
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+*Offers valid until 1 December 2025 (11:59pm AEDT), while stock lasts.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-launch-edm-10
+DATE: 2025-11-30
+SERIES: BFCM 2025 — Last day warning
+--------------------------------------------------------------------------------
+BLACK FRIDAY: NOW UP TO 50% OFF SITEWIDE
+
+This is it. No extensions. No do-overs.
+
+Our biggest event — and only sale of the year — wraps up tomorrow night.
+
+This is your last chance to save up to 50% on your favourite Memobottle products.
+
+[SHOP BEFORE IT ENDS]
+
+NEW BLACK FRIDAY PERKS*
+Get an EXTRA $10 OFF — ORDERS $125+
+DISCOUNT APPLIED AUTOMATICALLY
+
+Free Slim Original memobottle — ORDERS $160+
+GIFT ADDED TO CART AUTOMATICALLY
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+*Offers valid until 1 December 2025 (11:59pm AEDT), while stock lasts.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: bfcm-launch-edm-11
+DATE: 2025-12-01
+SERIES: BFCM 2025 — Final call, ends tonight
+--------------------------------------------------------------------------------
+LAST CHANCE TO SAVE UP TO 50% OFF SITEWIDE
+
+FINAL CALL
+BLACK FRIDAY SALE ENDS TONIGHT
+
+No more umming and ahing — you have up to 11:59pm AEDT to save up to 50% sitewide.
+
+Don't miss out! Who knows when your favourites will go on sale again?
+
+[SHOP NOW BEFORE IT'S OVER]
+
+12 HOURS TO GO
+
+NEW BLACK FRIDAY PERKS*
+Get an EXTRA $10 OFF — ORDERS $125+
+DISCOUNT APPLIED AUTOMATICALLY
+
+Free Slim Original memobottle — ORDERS $160+
+GIFT ADDED TO CART AUTOMATICALLY
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+*Offers valid until 1 December 2025 (11:59pm AEDT), while stock lasts.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: boxing-day-edm-1
+DATE: 2025-12-25
+SERIES: Boxing Day 2025
+--------------------------------------------------------------------------------
+15% OFF?
+Yes, please.
+[SHOP & SAVE NOW]
+
+You did it — aced Christmas gift giving and the holiday rush.
+
+If you didn't find a memobottle under the tree this year, now's your chance to treat
+yourself... and just for you, here's 15% off your order, for a limited time only*.
+
+[CLAIM YOUR 15% OFF]
+
+Save on our bestsellers and new arrivals:
+Pistachio — Slim Stainless Steel
+Original — A6 memobottle
+Butter Yellow — A5 Stainless Steel
+
+[SHOP & SAVE NOW]
+
+FREE SHIPPING WITH ORDERS OF $100 AND ABOVE (AUS ONLY)
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+*Get 15% off sitewide (excluding Gift Cards). Discount automatically applied at
+checkout. Ends 2 January 2026 (11:59pm AEDT).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: boxing-day-edm-2
+DATE: 2025-12-28
+SERIES: Boxing Day 2025 — Ends soon, team picks
+--------------------------------------------------------------------------------
+15% Off Sitewide — Ends Soon
+[SHOP & SAVE NOW]
+
+Look, we can't crush your 2026 hydration goals for you, but we can make the process
+easier, more convenient, and more stylish than ever.
+
+Our 15% off sitewide offer is still on*, but not for much longer — catch it while
+you still can.
+
+[GET 15% OFF YOUR ORDER]
+
+Not sure where to start? Here's the Memobottle team with their recommendations:
+
+SLIM STAINLESS STEEL MEMOBOTTLE IN WHITE — Johnny says:
+I love it because it's super easy to carry and travel with (fits nicely in a bag),
+and the slim shape makes it feel really practical day-to-day.
+
+A5 ORIGINAL MEMOBOTTLE — Rafael says:
+The Original memobottle range is really lightweight, and the large capacity of the
+A5 is perfect for all-day hydration.
+
+SLIM MEMOBOTTLE BUNDLE IN WILD PLUM — Lyle says:
+It holds a great amount of water, and the slim, flat profile makes it perfect for
+everyday carry. The unique shape fits effortlessly into my daily bag (the A3 Daily
+Tote), and the Wild Plum colour is both on-trend and timeless.
+
+FREE SHIPPING WITH ORDERS OF $100 AND ABOVE (AUS ONLY)
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+*15% off sitewide (excluding Gift Cards). Ends 2 January 2026 (11:59pm AEDT).
+
+
+================================================================================
+4. COMMUNITY & BRAND
+================================================================================
+
+--------------------------------------------------------------------------------
+CAMPAIGN: pfj-2024-edm-1
+DATE: 2024-07-03
+SERIES: Plastic Free July 2024
+--------------------------------------------------------------------------------
+Reusables are for the ready.
+
+We're all for a future without single-use plastic. But we also know that they're a
+problem because we let them be.
+
+With the smallest amount of forethought, our daily adventures could be self supported,
+and single-use a thing of the past.
+
+But habits run deep. Which is why we're focusing on starting small.
+
+This July, we're starting with small, everyday swaps to create habits that will last
+beyond 31 days.
+
+We'll be sharing our simple swaps and tips over on our socials this month, so get
+involved in the conversation there.
+
+Whatever your vice, whether it's single-use bottles, coffee cups, or plastic grocery
+bags...
+
+Join us in making 1 change, over 1 month, to create 1 habit that will last a lifetime.
+
+[Jesse Leeworthy and Jonathan Byrt, co-founders of Memobottle]
+
+[LEARN MORE ABOUT MEMOBOTTLE]
+
+Since 2016, memobottle has proudly supported Water.org, an international nonprofit
+organisation that positively transforms millions of lives around the world with access
+to safe water and sanitation.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: pfj-2024-edm-2
+DATE: 2024-07-18
+SERIES: Plastic Free July 2024 — Team habits + giveaway
+--------------------------------------------------------------------------------
+Dig the well before you're thirsty
+
+This Plastic Free July, each of us at Memobottle is committed to cutting out one
+single-use item. How? By keeping our reusables at the ready.
+
+Using the power of preparation, we're snipping off 'single-use' at the source, and
+setting ourselves up for success.
+
+It looks different for everyone, but it's really as simple as keeping a small buffer
+of reusable cups or grocery bags in your car.
+
+In making this 1 change, over 1 month, we aim to form a new habit that will last
+a lifetime.
+
+Change doesn't happen overnight, so we hope you'll join us in taking this small step
+towards a more reusable lifestyle.
+
+NEED SOME INSPIRATION? HERE'S WHAT WE'RE DOING.
+
+REUSABLE COFFEE CUPS AT THE READY
+We're caffeinated and caring for the environment by pre-packing a couple coffee cups
+each day. This way they're always ready to go for our morning pick-me-ups... and
+we've got an office buddy accountability system going strong. That's that me, espresso.
+
+WASTE-FREE FOOD STORAGE
+Our leftover pasta salad? Kept fresh for tomorrow's lunch using beeswax wrap, reusable
+containers, and glass jars instead of plastic wrap. Tastes better the next day.
+
+ZERO-WASTE GROCERY SHOPPING
+We're shopping at bulk food stores for everything from rice, to dried fruit and nuts,
+to home cleaning supplies. By using our own jars and containers, and picking up the
+exact quantities we need, we're reducing our packaging and food waste. A win-win.
+
+LATHER, RINSE, REPEAT
+We're switching to bar soaps to reduce our plastic waste. Lavender? Lemon myrtle?
+Sign us up. Or, if you prefer liquid shower gels, try filling up your bottles at
+bulk food stores instead.
+
+20 TO BE WON
+Win a memobottle for you and a friend — Plastic Free July Giveaway
+
+[ENTER THE GIVEAWAY ON INSTAGRAM]
+Ends July 30
+
+--------------------------------------------------------------------------------
+CAMPAIGN: pfj-2024-edm-3
+DATE: 2024-07-25
+SERIES: Plastic Free July 2024 — Jesse's editorial / perspective piece
+--------------------------------------------------------------------------------
+Have we got it wrong?
+
+With all the chatter around the evils of plastic this month, Memobottle co-founder
+Jesse Leeworthy shares his thoughts on why we should respect our most hated material.
+
+We know how disposed single-use plastic products and packaging are scattered across
+the entire globe: polluting waterways, leaching from landfills, and floating in our
+oceans.
+
+That's why society has often labeled plastic as an "unacceptable" material.
+
+But is it possible that we've got it wrong? Is it possible that the problem doesn't
+sit with the material's make-up, but instead with how it is used?
+
+[SHOULD WE RESPECT OUR MOST HATED MATERIAL?]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: pfj-2024-edm-4
+DATE: 2024-07-30
+SERIES: Plastic Free July 2024 — Community challenge / word search
+--------------------------------------------------------------------------------
+WORD SEARCH CHALLENGE
+Disposable Detectives
+
+This month, we put the call out for you to tell us what single-use item you're
+cutting out in July.
+
+We've compiled some of your answers in the puzzle above. How many can you find?
+
+Of course, there were many more everyday items and less frequently used ones,
+highlighting just how many disposable things we've brought into our lives — all in
+the name of convenience.
+
+As you go about your daily routine today, consider all the items that are being used,
+like the ones listed above — are there reusable alternatives you can reach for instead?
+
+ANSWERS: Balloon, Cup, Plate, Tea, Straw, Bottle, Mason, Bag, Soy Sauce (Packets), Wrap
+
+20 TO BE WON
+Win a memobottle for you and a friend — Plastic Free July Giveaway
+
+[ENTER THE GIVEAWAY]
+Ends July 30 (11:59pm AEST)
+
+--------------------------------------------------------------------------------
+CAMPAIGN: pfj-2024-edm-5
+DATE: 2024-07-31
+SERIES: Plastic Free July 2024 — Reflections / wrap-up
+--------------------------------------------------------------------------------
+PLASTIC FREE JULY
+Reflections on a Reusable Lifestyle
+
+This past month, the Memobottle team embarked on a journey of self-discovery — could
+we go cold turkey on our worst single-use habits?
+
+There were successes, failures, and lots of meaningful discussions surrounding our
+throw-away culture, and what it means to respect the materials and goods we use.
+
+But this challenge was never just meant to last a month. Here's what we learned this
+Plastic Free July, and the new habits forged that we're taking with us from now on.
+
+FAILURE IS DELAY, NOT DEFEAT
+Fiona says:
+This month, I traded in plastic bags for reusable grocery bags. I failed twice due to
+being unprepared / forgetting to restock my car with extra grocery bags (I'm so lazy!)
+Hoping to instil better organisational habits long term!
+
+PREPARATION IS KEY
+James says:
+The mind is powerful — so powerful that 4 days in, it chose to forget about the
+challenge just so it could get caffeinated. Keeping a small buffer of reusable cups
+— in the car, in my bag — was key to getting through the month.
+
+REACH FOR REUSABLES
+Jesse says:
+Opting for single-use products, no matter the material, perpetuates a cycle of waste.
+Our true challenge is to shift towards a culture of sustainability, where reusability
+and responsibility replace the convenience of disposability.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: world-rainforest-day-edm-1
+DATE: 2025-06-22
+SERIES: Memobottle x HalfCut partnership
+--------------------------------------------------------------------------------
+THIS WORLD RAINFOREST DAY, WE'RE TAKING ACTION.
+
+MEMOBOTTLE x HALFCUT
+
+At Memobottle, sustainability isn't just a buzzword — it's our blueprint. We believe
+that preserving rainforests protects our most essential resource: water.
+
+That's why we're proud to partner with Australian charity HalfCut, to raise funds
+in support of their mission to protect and restore the Daintree, the largest
+rainforest in Australia.
+
+Forests are one of our best chances to beat the climate crisis and heal our planet.
+But the statistics are alarming: 50% of the world's forests are gone, and 50% of
+Australia's forests have been destroyed. The Daintree is one of these old forests
+that is at risk of further logging and bulldozing.
+
+Thankfully, our friends at HalfCut are here to help save the other half! The
+Memobottle team will be participating in the HalfCut challenge in August, so stay
+tuned for some exciting updates and announcements.
+
+In the meantime, we'd like to invite our Memobottle community to be part of the
+journey by signing up to join our team, or making a tax-deductible donation.
+
+Thank you for helping us celebrate World Rainforest Day with purpose.
+
+[VIEW THE MEMOBOTTLE TEAM PAGE]
+
+A message from Jesse & Jonno, Memobottle co-founders:
+"We believe in business as a force for good. We're excited to partner with HalfCut,
+a movement that reminds us that creativity, courage, and community are what it takes
+to fight for a future where people and planet thrive together."
+— Jesse and Jonno
+
+About HalfCut:
+HalfCut began in 2019 with a bold challenge: encouraging people to shave, cut, or
+colour half their hair (or beard!) to raise awareness that half the world's forests
+had already been destroyed.
+
+Today, HalfCut is a movement driving real impact through community-led programs to
+restore ecosystems, empower Indigenous communities, and protect the Daintree Rainforest.
+
+[LEARN MORE ABOUT HALFCUT HERE]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: halfcut-edm-2
+DATE: 2025-08-05
+SERIES: Memobottle x HalfCut — Challenge launch + donate to win
+--------------------------------------------------------------------------------
+HALF A MOUSTACHE, A WHOLE LOT OF PURPOSE
+
+DONATE AND WIN
+
+MEMOBOTTLE x HALFCUT
+
+This August, we're partnering with Australian charity HalfCut, in support of their
+mission to protect and restore Australia's largest rainforest — the Daintree.
+
+Memobottle co-founders Jesse and Jonno have accepted the HalfCut challenge: to shave
+half their moustaches, making a bold statement to raise funds and awareness.
+
+Why half? Because 50% of Australia's forests have been destroyed. And now, we're
+inviting our community to join us to save the remaining half.
+
+How you can get involved (Open to Australian residents only):
+
+50c from every order in August will be donated to HalfCut.
+
+If you've had your eye on any Memobottle products, now is a great time to make your
+purchase.
+
+Make a $25 donation, and be in the running to win a prize pack worth over $1,000:
+- An exclusive Memobottle prize pack filled with our best-selling Original bundles,
+  Stainless Steel bottles, and A3 Daily Tote (worth over $600)
+- Plus, a whole year's supply of Ben & Jerry's ice cream scoops (worth $400)
+
+[DONATE AND WIN]
+
+THESE MOUSTACHES ARE 12 YEARS OLD!
+"OH BOY, WE CAN'T WAIT TO SEE THE FINAL RESULT." — THE MEMOBOTTLE TEAM
+
+IN CONVERSATION (AND CONSERVATION) WITH JAMES STANTON-COOKE, HALFCUT CO-FOUNDER
+
+How did the idea for HalfCut come about? How do people react to a bloke with half a
+beard? Spoiler: there have been laughter, stares, tears, and more.
+
+The Memobottle team chatted with James about all things HalfCut — discover the
+incredible story behind the organisation below.
+
+[READ OUR INTERVIEW WITH JAMES]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: halfcut-edm-4
+DATE: 2025-08-28
+SERIES: Memobottle x HalfCut — Last chance to donate
+--------------------------------------------------------------------------------
+LAST CHANCE TO DONATE AND WIN
+
+DONATE AND WIN
+
+MEMOBOTTLE x HALFCUT
+
+50c FROM EVERY ORDER WILL BE DONATED TO HALFCUT
+
+The countdown begins!
+
+Memobottle co-founders Jesse and Jonno will be participating in the HalfCut challenge
+on World HalfCut Day, August 31st.
+
+They'll be shaving off half their moustaches, right down the middle, to raise funds
+to keep the Daintree thriving and in the hands of its Traditional Owners for
+generations to come.
+
+There's still time for you to get involved (Open to Australian & New Zealand residents):
+
+Make a $25 donation on our fundraising page, and be in the running to win over $1,000
+worth of prizes, including:
+1. A3 Daily Tote
+2. $100 Memobottle gift card
+3. A5 memobottle bundle + matching Desk Stand
+4. Slim memobottle bundle + matching Desk Stand
+5. A6 Stainless Steel memobottle + matching Desk Stand
+6. A7 Stainless Steel memobottle + matching Desk Stand
+7. A whole year's supply of Ben & Jerry's ice cream — that's 52 pints!
+
+[DONATE AND WIN]
+
+Join us on IG for the big shave
+It's all going down on Instagram.
+Join Jesse and Jonno as one side of their faces get a little colder.
+SUNDAY, 31 AUGUST | 8AM AEST
+
+[FOLLOW US ON INSTAGRAM]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: 2024-wrapped-edm-1
+DATE: 2024-12-30
+SERIES: Year in review / brand moment
+--------------------------------------------------------------------------------
+Thanks for the Memo-ries
+
+We could keep our 2024 memories all bottled up, but we really wanted to share some
+of our favourite moments with you.
+
+Thank you for being a part of the Memobottle community. Happy New Year, and cheers
+to an amazing 2025 ahead.
+
+[2024, RECAPPED ON OUR BLOG]
+
+SPILLING ON OUR 2024 HIGHLIGHTS
+
+FROM BOTTLES TO BENTOS
+We launched memobento, our 2-in-1 lunchbox and container system and the Kickstarter
+project was fully funded within 30 minutes.
+ARRIVING IN MAY 2025
+
+CELEBRATING 10 YEARS WITH THE ELEMENTS COLLECTION
+We marked our 10th Anniversary with a very special launch: The Elements collection,
+with Titanium Ultralight, Copper PVD, and Satin Steel memobottles.
+
+50 MILLION DAYS OF SAFE WATER ACCESS DONATED VIA WATER.ORG
+Since 2014, we've partnered with Water.org to provide access to safe water and
+sanitation to those in need worldwide.
+Thank you for helping us make a difference.
+
+[2024, RECAPPED ON OUR BLOG]
+
+
+================================================================================
+5. GIVEAWAY / COMPETITION
+================================================================================
+
+--------------------------------------------------------------------------------
+CAMPAIGN: holiday-giveaway-edm-1
+DATE: 2025-10-10
+SERIES: Memobottle x ARRIVAL — Japan Giveaway
+--------------------------------------------------------------------------------
+memobottle x ARRIVAL
+
+WIN an $8,000 AUD Japan getaway for you and your best friend
+
+[ENTER NOW]
+
+WIN THE TRIP OF A LIFETIME
+
+We're teaming up with premium travel brand ARRIVAL to give you and your best friend
+the chance to experience Japan like never before, with a 10-night journey valued at
+$8,000 AUD.
+
+Think boutique hotels, guided tours, a 7-day JR Rail Pass, and an ARRIVAL-hosted
+adventure that takes you from Tokyo's neon streets to Kyoto's hidden shrines.
+
+HOW TO ENTER:
+1. Sign up via our landing page
+2. Follow @memobottle on Instagram
+3. Tag your travel partner in the comments
+4. Describe them in 3 emojis
+
+[ENTER NOW]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+T&Cs apply. Open to residents of Australia, New Zealand & the USA aged 18+. Entries
+close 11:59pm AEST, 6 November 2025. Prize valued at AUD $7,680 includes 10-night
+Japan trip and $1,000 flight voucher (excludes meals and personal expenses).
+
+--------------------------------------------------------------------------------
+CAMPAIGN: holiday-giveaway-edm-2
+DATE: 2025-10-23
+SERIES: Memobottle x ARRIVAL — Japan Giveaway reminder
+--------------------------------------------------------------------------------
+memobottle x ARRIVAL
+
+WIN an $8,000 AUD Japan getaway for you and your best friend
+
+[ENTER NOW]
+
+YOU COULD BE BOARDING YOUR FLIGHT TO JAPAN SOON.
+
+There's still time to enter for your chance to win an $8,000 AUD Japan escape for
+you and your best friend with memobottle x ARRIVAL.
+
+Imagine drifting from Tokyo's vibrant streets to Kyoto's quiet shrines, with boutique
+stays, local flavours, and endless discovery along the way.
+
+Entries close soon, so don't miss your moment.
+
+[ENTER THE GIVEAWAY]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+T&Cs apply. Entries close 11:59pm AEST, 6 November 2025.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: holiday-giveaway-edm-3
+DATE: 2025-11-05
+SERIES: Memobottle x ARRIVAL — Japan Giveaway final call
+--------------------------------------------------------------------------------
+ENTRIES CLOSE SOON
+
+memobottle x ARRIVAL
+
+LAST CHANCE
+Don't miss your chance to win an unforgettable $8,000 AUD Japan escape
+
+[ENTER NOW]
+
+YOUR FINAL CHANCE TO WIN THE TRIP OF A LIFETIME
+
+Entries close 6 November, and you don't want to miss this one. You and your best
+friend could be jetting off to Japan on an $8,000 AUD adventure, complete with
+boutique stays, guided tours, and an ARRIVAL-hosted trip through Tokyo and Kyoto.
+
+It only takes a minute to enter. Sign up, follow, tag, and describe your travel
+partner in 3 emojis.
+
+[ENTER BEFORE MIDNIGHT]
+
+BETTER PRODUCTS | BIGGER PURPOSE
+
+T&Cs apply. Entries close 11:59pm AEST, 6 November 2025.
+
+
+================================================================================
+6. SURVEY
+================================================================================
+
+--------------------------------------------------------------------------------
+CAMPAIGN: survey-made-a-purchase (Round 1)
+DATE: 2025-11-01
+SEGMENT: Customers who have made a purchase
+--------------------------------------------------------------------------------
+TAKE THE SURVEY
+
+WE WANT TO HEAR FROM YOU
+
+WIN A $50 GIFT CARD
+
+[TAKE THE SURVEY]
+
+ESTIMATED COMPLETION TIME: 2 MINUTES
+
+Complete the survey by 15 November 2025 (11:59pm AEDT) for your chance to win
+1 of 5 $50 gift cards to use on memobottle.com.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: survey-never-made-a-purchase (Round 1)
+DATE: 2025-11-01
+SEGMENT: Subscribers who have not yet purchased
+--------------------------------------------------------------------------------
+TAKE THE SURVEY
+
+WE WANT TO HEAR FROM YOU
+
+WIN A $50 GIFT CARD
+
+[TAKE THE SURVEY]
+
+ESTIMATED COMPLETION TIME: 2 MINUTES
+
+Complete the survey by 15 November 2025 (11:59pm AEDT) for your chance to win
+1 of 5 $50 gift cards to use on memobottle.com.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: survey-made-a-purchase-2 (Round 2)
+DATE: 2025-11-08
+SEGMENT: Customers who have made a purchase — follow-up
+--------------------------------------------------------------------------------
+TAKE THE SURVEY
+
+WE WANT TO HEAR FROM YOU
+
+WIN ONE OF FIVE $50 GIFT CARDS
+
+[TAKE THE SURVEY]
+
+ESTIMATED COMPLETION TIME: 2 MINUTES
+
+Complete the survey by 15 November 2025 (11:59pm AEDT) for your chance to win
+1 of 5 $50 gift cards to use on memobottle.com.
+
+--------------------------------------------------------------------------------
+CAMPAIGN: survey-never-made-a-purchase-2 (Round 2)
+DATE: 2025-11-08
+SEGMENT: Non-purchasers — follow-up
+--------------------------------------------------------------------------------
+TAKE THE SURVEY
+
+WE WANT TO HEAR FROM YOU
+
+WIN ONE OF FIVE $50 GIFT CARDS
+
+[TAKE THE SURVEY]
+
+ESTIMATED COMPLETION TIME: 2 MINUTES
+
+Complete the survey by 15 November 2025 (11:59pm AEDT) for your chance to win
+1 of 5 $50 gift cards to use on memobottle.com.
+
+
+================================================================================
+7. OPERATIONAL
+================================================================================
+
+--------------------------------------------------------------------------------
+CAMPAIGN: kickstarter-elements-edm-winback
+DATE: 2024-10-03
+SERIES: Elements Kickstarter — Win-back segment
+--------------------------------------------------------------------------------
+PRE-ORDER VIA KICKSTARTER
+
+ELEMENTS — 24 HOURS REMAIN
+
+The countdown begins. Get in quick to save up to 30% when you pre-order your
+Titanium Ultralight, Copper PVD, and Satin Steel memobottles.
+
+[LEARN MORE OR PRE-ORDER NOW]
+[LEARN MORE OR PRE-ORDER NOW]
+
+--------------------------------------------------------------------------------
+CAMPAIGN: cobranding-d2c-edm-1
+DATE: 2024-10-30
+NOTE: Also listed under Sale/Promotional — B2B-to-D2C crossover email encouraging
+      consumers to advocate for corporate purchasing.
+--------------------------------------------------------------------------------
+[See full copy under Section 3: Sale / Promotional above]
+
+
+================================================================================
+CAMPAIGNS LISTED IN CSV BUT WITH NO IMAGES CAPTURED
+================================================================================
+
+The following campaigns appear in campaign_details.csv but have no screenshots in
+the images-resized folder. They were either plain text emails, not exported, or
+images were not included in the batch.
+
+  bfcm-edm-1 through bfcm-edm-12 (2024-11 to 2024-12) — BFCM 2024 full series
+  bfcm-hype-edm-1-not-engaged (2025-11-09) — Non-engaged variant of hype email
+  bfcm-launch-edm-4 (2025-11-16) — Sent same day as edm-3, no separate image
+  bfcm-launch-edm-12 (2025-12-05) — No image
+  eofys-edm-3 (2025-06-26) — No image
+  halfcut-edm-3 (2025-08-14) — No image
+  Win-back plain text email (2025-09-07) — Plain text, no design
+  Deliverability plain text email (2025-09-07) — Plain text, no design
+  thank-you-edm (2025-12-30) — No image
+  kickstarter-elements-edm-1-investor (2024-10-01) — Investor audience, no image
+  cherry-blossom-launch-edm-1 (2025-04-02) — [CAPTURED: see Section 1]
+  mothers-day-edm-1 (not in CSV) — No image found
+
+================================================================================
+END OF DOCUMENT
+================================================================================
