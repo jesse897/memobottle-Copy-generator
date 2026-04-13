@@ -212,7 +212,7 @@ Subject lines across a series escalate: launch uses invitation language, reminde
   },
   {
     id: "general",
-    label: "General",
+    label: "Free Style",
     description: "Blogs, video scripts, emails — freeform brand copy",
     maxTokens: 2048,
     rules: `GENERAL COPY RULES:

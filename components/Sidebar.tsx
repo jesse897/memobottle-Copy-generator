@@ -8,7 +8,7 @@ const CHANNELS = [
   { id: "social", label: "Social" },
   { id: "edm", label: "EDM" },
   { id: "pdp", label: "Product Description" },
-  { id: "general", label: "General" },
+  { id: "general", label: "Free Style" },
 ];
 
 const NAV = [

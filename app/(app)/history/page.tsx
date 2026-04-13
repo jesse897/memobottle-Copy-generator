@@ -7,7 +7,7 @@ const CHANNEL_LABELS: Record<Channel, string> = {
   social: "Social",
   edm: "EDM",
   pdp: "PDP",
-  general: "General",
+  general: "Free Style",
 };
 
 function summariseCopy(variation: CopyVariation, channel: Channel): string {

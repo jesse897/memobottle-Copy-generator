@@ -11,7 +11,7 @@ const CHANNEL_LABELS: Record<Channel, string> = {
   social: "Social",
   edm: "EDM",
   pdp: "Product Description",
-  general: "General",
+  general: "Free Style",
 };
 
 const CHANNEL_DESCRIPTIONS: Record<Channel, string> = {
