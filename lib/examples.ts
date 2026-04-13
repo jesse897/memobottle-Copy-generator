@@ -3053,3 +3053,6 @@ From the both of us, a big thank you for your continued support and for being an
 Jesse & Jonno
 Co-founders, Memobottle`,
 ];
+
+export const GENERAL_EXAMPLES: string[] = [];
+

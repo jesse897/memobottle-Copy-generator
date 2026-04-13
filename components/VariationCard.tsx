@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { CopyVariation, EDMCopy, SocialCopy, PDPCopy, Channel } from "@/lib/types";
+import { CopyVariation, EDMCopy, SocialCopy, PDPCopy, GeneralCopy, Channel } from "@/lib/types";
 
 interface Props {
   variation: CopyVariation;
@@ -96,6 +96,22 @@ function CopyDisplay({ copy, channel }: { copy: CopyVariation["copy"]; channel: 
     );
   }
 
+  if (channel === "general" && typeof copy === "object" && "headline" in copy) {
+    const c = copy as GeneralCopy;
+    return (
+      <div className="space-y-3">
+        <div>
+          <p className="text-[10px] font-semibold uppercase tracking-widest text-[#999] mb-1">Headline</p>
+          <p className="text-sm text-[#323250] font-medium">{c.headline}</p>
+        </div>
+        <div>
+          <p className="text-[10px] font-semibold uppercase tracking-widest text-[#999] mb-1">Body</p>
+          <p className="text-sm text-[#3D4246] whitespace-pre-wrap">{c.body}</p>
+        </div>
+      </div>
+    );
+  }
+
   return <p className="text-sm text-[#3D4246] whitespace-pre-wrap">{String(copy)}</p>;
 }
 
@@ -116,6 +132,10 @@ function copyToClipboard(copy: CopyVariation["copy"], channel: Channel): string 
       c.seoMetaDesc ? `SEO Meta: ${c.seoMetaDesc}` : "",
     ].filter(Boolean).join("\n");
     return [c.shortDesc, bullets, c.fullDesc, seo].filter(Boolean).join("\n\n");
+  }
+  if (channel === "general" && typeof copy === "object" && "headline" in copy) {
+    const c = copy as GeneralCopy;
+    return `${c.headline}\n\n${c.body}`;
   }
   return String(copy);
 }

@@ -4,7 +4,7 @@ import { getAnthropic } from "@/lib/anthropic";
 import { isValidChannel, getChannel } from "@/lib/channels";
 import { buildSystemPrompt, buildUserMessage, parseVariations } from "@/lib/prompts";
 import { GenerateRequest, Product } from "@/lib/types";
-import { SOCIAL_EXAMPLES, PDP_EXAMPLES, EDM_EXAMPLES } from "@/lib/examples";
+import { SOCIAL_EXAMPLES, PDP_EXAMPLES, EDM_EXAMPLES, GENERAL_EXAMPLES } from "@/lib/examples";
 import { getCategoryProduct, isCategoryId } from "@/lib/productCategories";
 
 const MODEL = "claude-sonnet-4-6";
@@ -70,7 +70,7 @@ export async function POST(request: NextRequest) {
 
   if (!channel || !isValidChannel(channel)) {
     return NextResponse.json(
-      { error: "channel must be one of: social, edm, pdp" },
+      { error: "channel must be one of: social, edm, pdp, general" },
       { status: 400 }
     );
   }
@@ -97,8 +97,8 @@ export async function POST(request: NextRequest) {
   let resolvedProducts: Product[] = [];
   let productKeywords = "";
 
-  // EDM multi-product resolution
-  if (channel === "edm" && productIds && productIds.length > 0) {
+  // EDM / General multi-product resolution
+  if ((channel === "edm" || channel === "general") && productIds && productIds.length > 0) {
     for (const pid of productIds) {
       if (pid.startsWith("collection:")) {
         const shopifyId = pid.replace("collection:", "");
@@ -207,7 +207,10 @@ export async function POST(request: NextRequest) {
 
   // Weighted example sampling — bias toward examples relevant to this product/collection
   const allExamples =
-    channel === "social" ? SOCIAL_EXAMPLES : channel === "pdp" ? PDP_EXAMPLES : EDM_EXAMPLES;
+    channel === "social" ? SOCIAL_EXAMPLES
+    : channel === "pdp" ? PDP_EXAMPLES
+    : channel === "general" ? GENERAL_EXAMPLES
+    : EDM_EXAMPLES;
   const sampled = sampleExamples(allExamples, productKeywords, 100);
 
   const channelConfig = getChannel(channel);

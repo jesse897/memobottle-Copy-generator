@@ -210,6 +210,25 @@ Subject lines across a series escalate: launch uses invitation language, reminde
 - Write around durability with confidence — no caveats, no fragility implications.
 - No em dashes. No exclamation marks. British/Australian spelling throughout.`,
   },
+  {
+    id: "general",
+    label: "General",
+    description: "Blogs, video scripts, emails — freeform brand copy",
+    maxTokens: 2048,
+    rules: `GENERAL COPY RULES:
+- Return two fields: "headline" and "body".
+- Headline: short, punchy title for the piece. Sentence case. No exclamation marks.
+- Body: the full piece of content — blog post, video script, email, or other format as specified in the brief.
+- Match the format to what the brief describes. If it says "TikTok script", write a script with on-screen text cues and voiceover lines. If it says "blog post", write flowing paragraphs. If it says "email", follow email conventions (warm opener, body, close).
+- Video scripts: include scene directions in [brackets] where helpful. Keep lines punchy and rhythmic. Pause for breath. Each line should earn its place.
+- Blog posts: 3 to 5 paragraphs. Lead with an observation or question. End with a product truth or call to action. Avoid listicles unless the brief asks for one.
+- Emails: warm and direct. No "We're excited to..." openers. Short paragraphs. Close with a soft call to action.
+- If products are provided: weave them naturally into the piece. Product is always protagonist — describe what it enables, not just what it is.
+- If no products are provided: write from brand voice only. Focus on lifestyle, values, and ideas.
+- All memobottle grammar rules apply: no em dashes, no exclamation marks, Australian/British English throughout.
+- Dry wit is welcome when it earns its place. Never forced.
+- Three variations means three genuinely different takes — different angles, different structures, different tones within the same voice.`,
+  },
 ];
 
 export function getChannel(id: Channel): ChannelConfig {
@@ -219,5 +238,6 @@ export function getChannel(id: Channel): ChannelConfig {
 }
 
 export function isValidChannel(id: string): id is Channel {
-  return ["social", "edm", "pdp"].includes(id);
+  return ["social", "edm", "pdp", "general"].includes(id);
 }
+

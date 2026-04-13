@@ -87,6 +87,34 @@ function formatBrief(
     return lines.join("\n");
   }
 
+  // General: freeform prompt + optional products
+  if (channel === "general") {
+    const format = typeof brief.format === "string" && brief.format ? brief.format : null;
+    const prompt = typeof brief.prompt === "string" ? brief.prompt : "";
+    const notes = typeof brief.notes === "string" && brief.notes ? brief.notes : null;
+
+    if (format) lines.push(`FORMAT: ${format}`);
+    lines.push(`BRIEF: ${prompt}`);
+
+    const productList = products && products.length > 0 ? products : product ? [product] : [];
+    if (productList.length > 0) {
+      lines.push("");
+      if (productList.length === 1) {
+        lines.push(formatProductBlock(productList[0]));
+      } else {
+        lines.push(`PRODUCTS (${productList.length}):`);
+        for (const p of productList) {
+          lines.push("---");
+          lines.push(formatProductBlock(p));
+        }
+      }
+    }
+
+    if (notes) lines.push(`\nADDITIONAL NOTES: ${notes}`);
+
+    return lines.join("\n");
+  }
+
   // Social: original format
   if (product) {
     lines.push(formatProductBlock(product));
@@ -172,6 +200,16 @@ Return exactly 3 variations as a valid JSON array. No markdown fences, no preamb
   },
   { "id": 2, "copy": { "shortDesc": "...", "bullets": ["..."], "fullDesc": "...", "seoTitle": "...", "seoMetaDesc": "..." }, "rationale": "..." },
   { "id": 3, "copy": { "shortDesc": "...", "bullets": ["..."], "fullDesc": "...", "seoTitle": "...", "seoMetaDesc": "..." }, "rationale": "..." }
+]`;
+  }
+
+  if (channel === "general") {
+    return `${base}
+
+[
+  { "id": 1, "copy": { "headline": "Title of the piece", "body": "Full content here. Can span multiple paragraphs separated by \\n\\n." }, "rationale": "One sentence explaining the angle." },
+  { "id": 2, "copy": { "headline": "...", "body": "..." }, "rationale": "..." },
+  { "id": 3, "copy": { "headline": "...", "body": "..." }, "rationale": "..." }
 ]`;
   }
 

@@ -1,4 +1,4 @@
-export type Channel = "social" | "edm" | "pdp";
+export type Channel = "social" | "edm" | "pdp" | "general";
 
 // ── Product from Shopify ──────────────────────────────────────────────────────
 
@@ -50,7 +50,12 @@ export interface PDPCopy {
   seoMetaDesc: string;
 }
 
-export type CopyContent = string | EDMCopy | SocialCopy | PDPCopy;
+export interface GeneralCopy {
+  headline: string;
+  body: string;
+}
+
+export type CopyContent = string | EDMCopy | SocialCopy | PDPCopy | GeneralCopy;
 
 export interface CopyVariation {
   id: number;

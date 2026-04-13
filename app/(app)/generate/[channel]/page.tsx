@@ -11,12 +11,14 @@ const CHANNEL_LABELS: Record<Channel, string> = {
   social: "Social",
   edm: "EDM",
   pdp: "Product Description",
+  general: "General",
 };
 
 const CHANNEL_DESCRIPTIONS: Record<Channel, string> = {
   social: "Hook line + caption for Instagram and TikTok",
   edm: "Subject line, hero headline, body, CTA",
   pdp: "Short description, bullets, full description, and SEO fields",
+  general: "Blogs, video scripts, emails — freeform brand copy",
 };
 
 export default function GeneratePage() {
